@@ -1,0 +1,4 @@
+# ignore all .a files
+*.xlsm
+*.xlsx
+*.png
