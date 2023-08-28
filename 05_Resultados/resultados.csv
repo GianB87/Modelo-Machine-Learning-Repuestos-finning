@@ -1,0 +1,144 @@
+Modelo,Conjunto de Variables,Componente,Total de Variables,Importancia,Datos de Entrenamiento,RMSE,MAE,R2,Mejores Parametros,Tiempo de Ejecución
+Random Forest,Completo,Todos,30,"1. repNP: 0.871
+2. moSalvatajeTrabajoReal: 0.07
+3. Otros modelos de MO: 0.01
+4. genHh: 0.009
+5. repNoKitCant: 0.008
+6. genPondNivel: 0.008
+7. moVariacion: 0.005
+8. 797B: 0.003
+9. moDesarmeVariacion: 0.003
+10. genPromExp: 0.002
+11. genDemora: 0.002
+12. genNVueltas: 0.002
+13. 797F: 0.002
+14. MA: 0.002
+15. DI: 0.001
+16. moSalvatajeCantPersonal: 0.001
+17. Otros modelos de TR: 0.0
+18. CO: 0.0
+19. Overhaul: 0.0
+20. MF: 0.0
+21. Otros modelos de CO: 0.0
+22. Otros modelos de MA: 0.0
+23. Proceso Continuo: 0.0
+24. Otros modelos de DI: 0.0
+25. 854K: 0.0
+26. TR: 0.0
+27. TERMINADO: 0.0
+28. Otros modelos de MF: 0.0
+29. MO: 0.0
+30. DESPACHO: 0.0",796,29912.88742117958,20771.609149646647,0.9216712246554191,"min_samples_leaf:	5
+n_estimators:	20",0.0
+Random Forest,Completo,Convertidor,18,"1. Otros modelos de CO: 0.467
+2. repNP: 0.264
+3. repNoKitCant: 0.073
+4. genPromExp: 0.055
+5. genHh: 0.043
+6. genPondNivel: 0.026
+7. genDemora: 0.015
+8. moSalvatajeCantPersonal: 0.014
+9. moDesarmeVariacion: 0.013
+10. 797B: 0.012
+11. genNVueltas: 0.008
+12. moVariacion: 0.006
+13. 797F: 0.003
+14. Overhaul: 0.001
+15. moSalvatajeTrabajoReal: 0.0
+16. TERMINADO: 0.0
+17. Proceso Continuo: 0.0
+18. DESPACHO: 0.0",93,6991.251465509753,5720.889310940605,0.6759780321413046,"min_samples_leaf:	5
+n_estimators:	20",0.0
+Random Forest,Completo,Diferencial,18,"1. repNP: 0.807
+2. moVariacion: 0.064
+3. genHh: 0.03
+4. genDemora: 0.026
+5. genPromExp: 0.02
+6. repNoKitCant: 0.012
+7. 797B: 0.011
+8. genNVueltas: 0.01
+9. genPondNivel: 0.008
+10. 797F: 0.007
+11. moDesarmeVariacion: 0.006
+12. moSalvatajeCantPersonal: 0.0
+13. moSalvatajeTrabajoReal: 0.0
+14. TERMINADO: 0.0
+15. Overhaul: 0.0
+16. Otros modelos de DI: 0.0
+17. DESPACHO: 0.0
+18. 854K: 0.0",128,8384.543576226817,6733.539493711807,0.6013752628050077,"min_samples_leaf:	5
+n_estimators:	20",0.0
+Random Forest,Completo,Maza,18,"1. genHh: 0.135
+2. genPromExp: 0.124
+3. repNP: 0.115
+4. moDesarmeVariacion: 0.115
+5. repNoKitCant: 0.107
+6. moVariacion: 0.093
+7. genPondNivel: 0.073
+8. 797B: 0.057
+9. genNVueltas: 0.041
+10. genDemora: 0.04
+11. moSalvatajeTrabajoReal: 0.037
+12. Otros modelos de MA: 0.031
+13. moSalvatajeCantPersonal: 0.019
+14. 797F: 0.008
+15. Overhaul: 0.005
+16. TERMINADO: 0.0
+17. Proceso Continuo: 0.0
+18. DESPACHO: 0.0",198,23853.726180932073,19791.645333284534,-0.1014500297792198,"min_samples_leaf:	5
+n_estimators:	20",0.0
+Random Forest,Completo,Mando Final,18,"1. Otros modelos de MF: 0.308
+2. repNP: 0.215
+3. genHh: 0.119
+4. moSalvatajeTrabajoReal: 0.076
+5. repNoKitCant: 0.056
+6. moDesarmeVariacion: 0.05
+7. genPromExp: 0.031
+8. genPondNivel: 0.029
+9. moVariacion: 0.029
+10. genDemora: 0.028
+11. 797F: 0.019
+12. 797B: 0.016
+13. genNVueltas: 0.016
+14. moSalvatajeCantPersonal: 0.008
+15. Proceso Continuo: 0.001
+16. TERMINADO: 0.0
+17. Overhaul: 0.0
+18. DESPACHO: 0.0",162,35191.95132395436,26783.323695163974,0.3489505297748333,"min_samples_leaf:	5
+n_estimators:	20",0.0
+Random Forest,Completo,Motor,17,"1. repNP: 0.733
+2. Otros modelos de MO: 0.166
+3. repNoKitCant: 0.051
+4. 797B: 0.023
+5. moSalvatajeTrabajoReal: 0.006
+6. moDesarmeVariacion: 0.004
+7. genPromExp: 0.004
+8. moSalvatajeCantPersonal: 0.004
+9. moVariacion: 0.003
+10. genPondNivel: 0.002
+11. genHh: 0.002
+12. 797F: 0.002
+13. genDemora: 0.0
+14. genNVueltas: 0.0
+15. TERMINADO: 0.0
+16. Overhaul: 0.0
+17. DESPACHO: 0.0",78,38559.45076070751,32386.465530187776,0.9370780859080194,"min_samples_leaf:	5
+n_estimators:	20",0.0
+Random Forest,Completo,Transmisor,17,"1. Otros modelos de TR: 0.743
+2. repNP: 0.102
+3. repNoKitCant: 0.073
+4. moVariacion: 0.025
+5. moDesarmeVariacion: 0.015
+6. genPondNivel: 0.012
+7. genDemora: 0.011
+8. genHh: 0.007
+9. genPromExp: 0.007
+10. genNVueltas: 0.003
+11. moSalvatajeCantPersonal: 0.002
+12. moSalvatajeTrabajoReal: 0.0
+13. TERMINADO: 0.0
+14. Overhaul: 0.0
+15. DESPACHO: 0.0
+16. 797F: 0.0
+17. 797B: 0.0",134,16404.263520771143,11321.976270667028,0.6928265563699736,"min_samples_leaf:	5
+n_estimators:	20",0.0

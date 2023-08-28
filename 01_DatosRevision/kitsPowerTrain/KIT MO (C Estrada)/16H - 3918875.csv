@@ -1,0 +1,204 @@
+Serial Number or Prefix;Product;Order ID;Work Order;Segment;Operation;Additional Notes;
+0;;CCR R9H 3918875;;;;;
+;;;;;;;
+Part No.;Qty;Type;SMCS;Part Name;Group No.;Group Name;Note
+10R-6694;3;;1130;Actuator AS;346-5752;Actuator GP-Valve;CCR DESARME
+227-4892;1;;;Gasket;247-9665;Base GP-Oil Filter;CCR DESARME
+113-5304;2;;;Seal-O-Ring;247-9665;Base GP-Oil Filter;CCR DESARME
+4N-8150;2;;;Spring;530-2297;Base GP-Oil Filter;CCR DESARME
+7C-3083;1;;;Seat-Relief Valve Spring;530-2297;Base GP-Oil Filter;CCR DESARME
+7C-3954;1;;;Spring AS;530-2297;Base GP-Oil Filter;CCR DESARME
+2P-4304;1;;;Stud-Hollow;530-2297;Base GP-Oil Filter;CCR DESARME
+238-5084;1;;;Seal-O-Ring;530-2297;Base GP-Oil Filter;CCR DESARME
+392-9208;2;;;Plunger-Valve;530-2297;Base GP-Oil Filter;CCR DESARME
+214-7568;1;;;Seal-O-Ring;530-2297;Base GP-Oil Filter;CCR DESARME
+8C-3446;1;;;Valve-Sampling;530-2297;Base GP-Oil Filter;CCR DESARME
+214-7566;1;;;Seal-O-Ring;530-2297;Base GP-Oil Filter;CCR DESARME
+368-3986;1;;;Spring;530-2297;Base GP-Oil Filter;CCR DESARME
+8C-3445;1;;;Cap-Dust;530-2297;Base GP-Oil Filter;CCR DESARME
+574-6249;1;;1317;Gasket;267-0007;Breather GP;CCR DESARME
+9Y-4357;1;;1317;Breather AS;267-0007;Breather GP;CCR DESARME
+8T-9655;8;;1901;Mount-Isolation;233-6191;Control & Mtg GP-Engine Elek;CCR TU&EL
+9X-2098;4;;1901;Stud-Taperlock;233-6191;Control & Mtg GP-Engine Elek;CCR TU&EL
+131-6645;1;;1378;Hose;231-0152;Cooler GP-Engine Oil;CCR DESARME
+20R-1861;1;;1378;Core AS-Oclr;231-0152;Cooler GP-Engine Oil;CCR DESARME
+213-9396;1;;1378;Seal-O-Ring;231-0152;Cooler GP-Engine Oil;CCR DESARME
+6V-3250;1;;1378;Seal-O-Ring;231-0152;Cooler GP-Engine Oil;CCR DESARME
+6V-3251;2;;1378;Seal-O-Ring;231-0152;Cooler GP-Engine Oil;CCR DESARME
+224-2675;1;;1378;Seal;231-0152;Cooler GP-Engine Oil;CCR DESARME
+6V-9027;1;;1378;Seal-O-Ring;231-0152;Cooler GP-Engine Oil;CCR DESARME
+335-9214;2;;1378;Clamp-Band;231-0152;Cooler GP-Engine Oil;CCR DESARME
+6V-7571;1;;1378;Plug-Cup;231-0152;Cooler GP-Engine Oil;CCR DESARME
+2S-0795;2;;1375;Gasket;240-5403;Cooler GP-Transmission Oil;CCR DESARME
+10R-8997;1;;1375;Core AS-Oclr;240-5403;Cooler GP-Transmission Oil;CCR DESARME
+6V-5064;1;;1375;Seal-O-Ring;240-5403;Cooler GP-Transmission Oil;CCR DESARME
+6V-3250;1;;1375;Seal-O-Ring;240-5403;Cooler GP-Transmission Oil;CCR DESARME
+2N-5243;2;;1375;Seal-O-Ring;240-5403;Cooler GP-Transmission Oil;CCR DESARME
+8E-7366;2;;1375;Gasket;240-5403;Cooler GP-Transmission Oil;CCR DESARME
+117-3036;1;;1375;Seal-O-Ring;240-5403;Cooler GP-Transmission Oil;CCR DESARME
+9Y-6089;1;;1157;Gasket;323-1682;Cover GP-Flywheel Housing;CCR DESARME
+117-8801;1;;;Seal-O-Ring;227-2574;Cover GP-Front Housing;CCR DESARME
+5S-9134;1;;1306;Seal-O-Ring;117-2786;Cover GP-Oil Filter Base;CCR DESARME
+212-7728;10;;;Isolator AS;355-7194;Cover GP-Valve Mechanism;CCR DESARME
+229-5711;1;;;Seal-Valve Cover;355-7194;Cover GP-Valve Mechanism;CCR DESARME
+344-7562;1;;;Cover-Valve;355-7194;Cover GP-Valve Mechanism;CCR DESARME
+197-9642;1;;1207;Pulley AS-Idler;260-1406;Drive GP-Accessory;CCR DESARME
+211-7895;1;;1207;Belt Tensioner;260-1406;Drive GP-Accessory;CCR DESARME
+272-0389;1;;1120;Seal;267-0010;Base GP-Valve Cover;CCR DESARME
+132-5789;1;;1120;Clip;267-0010;Base GP-Valve Cover;CCR DESARME
+131-3718;1;;1210;Seal-O-Ring;355-1288;Camshaft GP;CCR DESARME
+9Y-0810;1;;;Sleeve-Wear;224-3881;Crankshaft GP;CCR BLOCK
+9Y-0821;1;;;Sleeve;224-3881;Crankshaft GP;CCR BLOCK
+246-3144;2;;;Plate-Thrust;224-3881;Crankshaft GP;CCR BLOCK
+3B-0623;3;;1201;Plug-Cup;240-7271;Cylinder Block GP;CCR DESARME
+214-7566;3;;1201;Seal-O-Ring;240-7271;Cylinder Block GP;CCR DESARME
+437-1409;6;;1201;Seal-Liner;517-1983;Cylinder Block AS;CCR DESARME
+4F-5695;5;;1201;Plug-Cup;517-1983;Cylinder Block AS;CCR DESARME
+221-9392;1;;1100;Gasket;331-2478;Cylinder Head GP;CCR DESARME
+7C-7852;1;;;Bearing;222-3088;Gear GP-Front;CCR DESARME
+133-7084;1;;;Bushing;222-3088;Gear GP-Front;CCR DESARME
+346-4897;1;;;Seal-O-Ring;233-5221;Pump GP-Engine Oil;CCR DESARME
+3E-6788;1;;;Seal-O-Ring;233-5221;Pump GP-Engine Oil;CCR DESARME
+5P-8068;2;;;Seal-O-Ring;233-5221;Pump GP-Engine Oil;CCR DESARME
+6V-3834;1;;;Seal-O-Ring;233-5221;Pump GP-Engine Oil;CCR DESARME
+6V-5134;3;;;Seal-O-Ring;233-5221;Pump GP-Engine Oil;CCR DESARME
+8J-4351;1;;;Seal-O-Ring;233-5221;Pump GP-Engine Oil;CCR DESARME
+6D-7146;1;;;Seal-O-Ring;233-5220;Pump GP-Engine Oil;CCR DESARME
+10R-3262;6;;;Injector GP-Fuel;253-1461;Pump GP-Fuel Injection;CCR DESARME
+6V-7350;1;;1361;Seal-O-Ring;228-5812;Pump GP-Water;CCR DESARME
+214-7568;1;;;Seal-O-Ring;357-0523;Sensor GP-Engine;CCR TU&EL
+256-6453;1;;;Sensor-Temperature;234-5012;Sensor GP-Temperature;CCR TU&EL
+6V-6609;1;;;Seal-O-Ring;234-5012;Sensor GP-Temperature;CCR TU&EL
+256-6453;2;;;Sensor-Temperature;234-5013;Sensor GP-Temperature;CCR TU&EL
+238-5080;2;;;Seal-O-Ring;234-5013;Sensor GP-Temperature;CCR TU&EL
+274-6718;1;;;Sensor GP-Pressure;249-0096;Sensor GP-Pressure;CCR TU&EL
+214-7566;2;;;Seal-O-Ring;249-0096;Sensor GP-Pressure;CCR TU&EL
+274-6717;1;;;Sensor-Pressure;276-8548;Sensor GP-Pressure;CCR TU&EL
+214-7568;1;;;Seal-O-Ring;276-8548;Sensor GP-Pressure;CCR TU&EL
+274-6719;1;;;Sensor GP-Pressure;276-9067;Sensor GP-Pressure;CCR TU&EL
+214-7566;1;;;Seal-O-Ring;276-9067;Sensor GP-Pressure;CCR TU&EL
+1P-0810;2;;;Tape-Electrical;384-1836;Sensor GP-Speed;CCR TU&EL
+228-4947;1;;;Seal-O-Ring;300-9805;Sensor GP-Speed;CCR TU&EL
+279-9828;1;;;Sensor GP-Speed;300-9805;Sensor GP-Speed;CCR TU&EL
+228-4947;1;;;Seal-O-Ring;300-9806;Sensor GP-Speed;CCR TU&EL
+279-9829;1;;;Sensor GP-Speed;300-9806;Sensor GP-Speed;CCR TU&EL
+214-7566;1;;;Seal-O-Ring;357-0523;Sensor GP-Engine;CCR TU&EL
+3S-2093;2;;;Strap-Cable;357-0523;Sensor GP-Engine;CCR TU&EL
+3S-2093;13;;1408;Strap-Cable;267-3088;Wiring GP-Unit Injector;CCR TU&EL
+7E-6508;6;;1408;Cap AS;267-3088;Wiring GP-Unit Injector;CCR TU&EL
+156-6175;1;;1408;Clip;267-3088;Wiring GP-Unit Injector;CCR TU&EL
+267-3089;1;;1408;Harness AS-Wiring;267-3088;Wiring GP-Unit Injector;CCR TU&EL
+117-1802;4;;1408;Dowel-Hollow;267-3088;Wiring GP-Unit Injector;CCR TU&EL
+2V-3216;4;;1408;Clip;267-3088;Wiring GP-Unit Injector;CCR TU&EL
+241-5645;1;;;Cap AS-Engine Oil Filler;231-0151;Filler GP-Engine Oil;CCR DESARME
+061-9455;4;;;Seal-O-Ring;231-0151;Filler GP-Engine Oil;CCR DESARME
+1R-1808;1;;;Filter-Engine Oil;231-3492;Filter GP-Engine Oil;CCR DESARME
+3S-2093;4;;1261;Strap-Cable;356-8382;Filter GP-Fuel;CCR DESARME
+6V-3965;1;;1280;Fitting;123-0783;Valve GP-Fluid Sampling;CCR DESARME
+214-7568;1;;1280;Seal-O-Ring;123-0783;Valve GP-Fluid Sampling;CCR DESARME
+6V-0852;1;;1280;Cap-Dust;123-0783;Valve GP-Fluid Sampling;CCR DESARME
+281-2725;1;;;Valve GP-Check;233-6742;Valve GP-Check;CCR DESARME
+238-5081;1;;;Seal-O-Ring;233-6742;Valve GP-Check;CCR DESARME
+6V-6923;1;;;Ring-Backup;281-2725;Valve GP-Check;CCR DESARME
+033-6033;1;;;Seal-O-Ring;281-2725;Valve GP-Check;CCR TU&EL
+214-7566;2;;1261;Seal-O-Ring;356-8382;Filter GP-Fuel;CCR TU&EL
+238-5080;8;;1261;Seal-O-Ring;356-8382;Filter GP-Fuel;CCR TU&EL
+275-1253;1;;1261;Switch GP-Pressure;356-8382;Filter GP-Fuel;CCR TU&EL
+274-6719;1;;1261;Sensor GP-Pressure;356-8382;Filter GP-Fuel;CCR TU&EL
+357-0673;1;;1261;Harness AS-Sensor;356-8382;Filter GP-Fuel;CCR TU&EL
+214-7568;2;;1261;Seal-O-Ring;356-8382;Filter GP-Fuel;CCR TU&EL
+1R-0762;1;;1261;Filter-Fuel;356-8382;Filter GP-Fuel;CCR TU&EL
+228-7088;2;;1261;Seal-O-Ring;356-8382;Filter GP-Fuel;CCR TU&EL
+4P-7581;1;;1261;Clip;356-8382;Filter GP-Fuel;CCR TU&EL
+9M-2904;1;;1317;Clamp-Hose;258-4484;Fumes Disposal GP;CCR DESARME
+224-5539;1;;1317;Hose-Fumes Disposal;258-4484;Fumes Disposal GP;CCR DESARME
+209-7309;4;;1326;Plug;262-0596;Gauge GP-Oil Level (Dipstick);CCR DESARME
+262-0595;1;;1326;Gauge AS-Oil Level (Dipstick);262-0596;Gauge GP-Oil Level (Dipstick);CCR DESARME
+228-4947;1;;1326;Seal-O-Ring;262-0596;Gauge GP-Oil Level (Dipstick);CCR DESARME
+1W-4738;1;;;Bushing;277-5425;Gear GP-Rear;CCR DESARME
+160-8184;1;;;Bushing;277-5425;Gear GP-Rear;CCR DESARME
+277-8283;1;;;Cover;277-5425;Gear GP-Rear;CCR DESARME
+4N-1230;2;;;Seal-O-Ring;277-5425;Gear GP-Rear;CCR DESARME
+444-2269;1;;;Seal-Ring;227-0838;Seal GP-Crankshaft;CCR DESARME
+227-0838;1;;1157;Seal GP-Crankshaft;277-4435;Housing GP-Flywheel;CCR DESARME
+2A-1162;1;;1157;Gasket;277-4435;Housing GP-Flywheel;CCR DESARME
+8M-9315;1;;1157;Bushing;277-4435;Housing GP-Flywheel;CCR DESARME
+214-7568;1;;1157;Seal-O-Ring;277-4435;Housing GP-Flywheel;CCR DESARME
+214-7566;1;;1157;Seal-O-Ring;277-4435;Housing GP-Flywheel;CCR DESARME
+238-5080;1;;1157;Seal-O-Ring;277-4435;Housing GP-Flywheel;CCR DESARME
+214-7567;1;;1157;Seal-O-Ring;277-4435;Housing GP-Flywheel;CCR DESARME
+3F-5792;1;;1157;Seal-O-Ring;277-4435;Housing GP-Flywheel;CCR DESARME
+4M-0189;1;;1157;Seal-O-Ring;277-4435;Housing GP-Flywheel;CCR DESARME
+1U-8846;3;;1157;Sealant-Gasket;277-4435;Housing GP-Flywheel;CCR DESARME
+4M-6480;1;;1157;Gasket;216-5540;Cover GP-Flywheel Housing;CCR DESARME
+5P-6727;1;;;Ball Bearing;218-7272;Housing GP-Front;CCR DESARME
+8H-9789;1;;;Ball Bearing;218-7272;Housing GP-Front;CCR DESARME
+257-2015;1;;;Gasket;218-7272;Housing GP-Front;CCR DESARME
+223-7852;1;;;Seal-Integral;218-7272;Housing GP-Front;CCR DESARME
+226-4755;1;;;Seal GP-Crankshaft;218-7272;Housing GP-Front;CCR DESARME
+6V-3535;2;;;Dowel;218-7272;Housing GP-Front;CCR DESARME
+117-8801;1;;;Seal-O-Ring;218-7272;Housing GP-Front;CCR DESARME
+3E-8016;1;;;Bolt-Self-Locking;218-7272;Housing GP-Front;CCR DESARME
+248-4840;1;;1071;Cap-Protective;268-6686;Lines GP-Air;CCR DESARME
+248-4841;1;;1071;Clamp-Band;268-6686;Lines GP-Air;CCR DESARME
+214-7566;1;;1071;Seal-O-Ring;268-6686;Lines GP-Air;CCR DESARME
+136-9141;1;;1274;Line-Fuel;289-4112;Lines GP-Fuel;CCR DESARME
+153-7950;1;;1274;Hose AS;289-4112;Lines GP-Fuel;CCR DESARME
+285-2237;1;;1274;Hose AS;289-4112;Lines GP-Fuel;CCR DESARME
+214-7568;3;;1274;Seal-O-Ring;289-4112;Lines GP-Fuel;CCR DESARME
+228-7089;1;;1274;Seal-O-Ring;289-4112;Lines GP-Fuel;CCR DESARME
+238-5080;1;;1274;Seal-O-Ring;289-4112;Lines GP-Fuel;CCR DESARME
+7V-6571;1;;1274;Grommet;289-4112;Lines GP-Fuel;CCR DESARME
+197-8418;1;;;Gasket;224-8170;Lines GP-Turbocharger Oil;CCR DESARME
+197-8419;1;;;Gasket;224-8170;Lines GP-Turbocharger Oil;CCR DESARME
+224-8171;1;;;Hose AS;224-8170;Lines GP-Turbocharger Oil;CCR DESARME
+498-9897;1;;;Tube AS;224-8170;Lines GP-Turbocharger Oil;CCR DESARME
+214-7568;1;;;Seal-O-Ring;224-8170;Lines GP-Turbocharger Oil;CCR DESARME
+228-7090;1;;;Seal-O-Ring;224-8170;Lines GP-Turbocharger Oil;CCR DESARME
+225-6948;1;;;Seal-O-Ring;224-8170;Lines GP-Turbocharger Oil;CCR DESARME
+224-6361;1;;1380;Seal;243-1667;Lines GP-Water;CCR DESARME
+227-5075;1;;1380;Seal;243-1667;Lines GP-Water;CCR DESARME
+3S-9643;1;;1380;Seal-Lip Type;243-1667;Lines GP-Water;CCR DESARME
+9X-7380;1;;1380;Seal-O-Ring;243-1667;Lines GP-Water;CCR DESARME
+248-5513;1;;1380;Regulator-Water Temperature;243-1667;Lines GP-Water;CCR DESARME
+6V-5063;2;;1380;Seal-O-Ring;243-1667;Lines GP-Water;CCR DESARME
+6V-6609;2;;1380;Seal-O-Ring;243-1667;Lines GP-Water;CCR DESARME
+6V-9027;2;;1380;Seal-O-Ring;243-1667;Lines GP-Water;CCR DESARME
+7L-6580;2;;1380;Seal-O-Ring;243-1667;Lines GP-Water;CCR DESARME
+6V-5063;2;;1380;Seal-O-Ring;319-5079;Lines GP-Water;CCR DESARME
+283-2238;6;;1059;Gasket;247-2833;Manifold GP-Exhaust;CCR DESARME
+116-3715;12;;1059;Stud-Taperlock;247-2833;Manifold GP-Exhaust;CCR DESARME
+9X-6620;12;;1059;Locknut;247-2833;Manifold GP-Exhaust;CCR DESARME
+9X-8281;4;;1059;Stud-Taperlock;247-2833;Manifold GP-Exhaust;CCR DESARME
+230-3518;1;;1058;Gasket-Manifold;222-3092;Manifold GP-Inlet;CCR DESARME
+132-5789;1;;1058;Clip;222-3092;Manifold GP-Inlet;CCR DESARME
+214-7568;2;;1058;Seal-O-Ring;222-3092;Manifold GP-Inlet;CCR DESARME
+176-9237;1;;1058;Bolt-Special;222-3092;Manifold GP-Inlet;CCR DESARME
+6V-6353;1;;1058;Seal-O-Ring;222-3092;Manifold GP-Inlet;CCR DESARME
+9X-6451;2;;1302;Plug-Drain;240-3279;Pan GP-Oil;CCR DESARME
+217-3673;1;;1302;Seal-Isolation;240-3279;Pan GP-Oil;CCR DESARME
+217-3674;14;;1302;Fastener AS;240-3279;Pan GP-Oil;CCR DESARME
+061-9458;2;;1302;Seal-O-Ring;240-3279;Pan GP-Oil;CCR DESARME
+3E-8016;2;;1302;Bolt-Self-Locking;240-3279;Pan GP-Oil;CCR DESARME
+5P-8211;1;;1302;Seal-O-Ring;240-3279;Pan GP-Oil;CCR DESARME
+238-5084;2;;1302;Seal-O-Ring;240-3279;Pan GP-Oil;CCR DESARME
+238-5080;1;;1201;Seal-O-Ring;227-9545;Plug GP-Cylinder Block;CCR DESARME
+214-7568;1;;1201;Seal-O-Ring;227-9545;Plug GP-Cylinder Block;CCR DESARME
+238-5082;1;;;Seal-O-Ring;238-8962;Plug GP-Engine;CCR DESARME
+6V-3251;1;;;Seal-O-Ring;238-8962;Plug GP-Engine;CCR DESARME
+6V-6609;1;;;Seal-O-Ring;238-8962;Plug GP-Engine;CCR DESARME
+20R-1524;1;;1256;Pump GP-F Xfr -A;301-2262;Pump GP-Fuel Transfer;CCR DESARME
+107-5769;1;;1256;Seal-O-Ring;301-2262;Pump GP-Fuel Transfer;CCR DESARME
+5P-4889;1;;1256;Seal-O-Ring;301-2262;Pump GP-Fuel Transfer;CCR DESARME
+274-6851;1;;;Gasket-Turbocharger;256-6004;Turbocharger GP;CCR TU&EL
+9X-6620;4;;;Locknut;256-6004;Turbocharger GP;CCR TU&EL
+3S-2093;12;;;Strap-Cable;357-0524;Wiring GP-Electronic Control;CCR TU&EL
+4P-7428;1;;;Clip;357-0524;Wiring GP-Electronic Control;CCR TU&EL
+385-2664;1;;;Harness AS-Engine;357-0524;Wiring GP-Electronic Control;CCR TU&EL
+132-5789;3;;;Clip;357-0524;Wiring GP-Electronic Control;CCR TU&EL
+156-6175;2;;;Clip;357-0524;Wiring GP-Electronic Control;CCR TU&EL
+4P-7581;1;;;Clip;357-0524;Wiring GP-Electronic Control;CCR TU&EL
+4P-8134;1;;;Clip;357-0524;Wiring GP-Electronic Control;CCR TU&EL
+8M-2770;1;;;Clip;357-0524;Wiring GP-Electronic Control;CCR TU&EL
+206-1345;4;;;Strap-Cable;357-0524;Wiring GP-Electronic Control;CCR TU&EL
+352-3970;1;;;Clip;357-0524;Wiring GP-Electronic Control;CCR TU&EL

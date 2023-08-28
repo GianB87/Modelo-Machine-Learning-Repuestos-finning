@@ -1,0 +1,400 @@
+Modelo,Conjunto de Variables,Componente,Total de Variables,Variables Significativas,Todas las Variables,Datos de Entrenamiento,RMSE,MAE,R2,Mejores Parametros,Tiempo de Ejecución
+Random Forest,Completo,Todos,12,"1. repNP: 0.713
+2. moSalvatajeTrabajoReal: 0.244
+3. repNoKitCant: 0.023
+4. genPondNivel: 0.008
+5. genHh: 0.005","1. repNP: 0.713
+2. moSalvatajeTrabajoReal: 0.244
+3. repNoKitCant: 0.023
+4. genPondNivel: 0.008
+5. genHh: 0.005
+6. moVariacion: 0.003
+7. moDesarmeVariacion: 0.002
+8. genDuracion: 0.001
+9. genPromExp: 0.001
+10. genNVueltas: 0.0
+11. genDemora: 0.0
+12. moSalvatajeCantPersonal: 0.0",796,34370.4805733935,23294.106435322108,0.8965868248720197,"max_depth:	5
+max_features:	10
+max_leaf_nodes:	13
+max_samples:	0.8
+min_samples_leaf:	5
+n_estimators:	40",4.03
+Random Forest,Completo,Convertidor,12,"1. repNP: 0.314
+2. repNoKitCant: 0.233
+3. genHh: 0.191
+4. moVariacion: 0.067
+5. genDuracion: 0.05","1. repNP: 0.314
+2. repNoKitCant: 0.233
+3. genHh: 0.191
+4. moVariacion: 0.067
+5. genDuracion: 0.05
+6. genPromExp: 0.034
+7. genPondNivel: 0.033
+8. moDesarmeVariacion: 0.029
+9. genDemora: 0.025
+10. genNVueltas: 0.023
+11. moSalvatajeCantPersonal: 0.001
+12. moSalvatajeTrabajoReal: 0.0",93,11311.221091545265,8937.242364635886,0.15182866456521737,"max_depth:	5
+max_features:	10
+max_leaf_nodes:	9
+max_samples:	0.8
+min_samples_leaf:	5
+n_estimators:	10",3.08
+Random Forest,Completo,Diferencial,12,"1. repNP: 0.684
+2. moSalvatajeTrabajoReal: 0.093
+3. moVariacion: 0.055
+4. repNoKitCant: 0.041
+5. genDemora: 0.028","1. repNP: 0.684
+2. moSalvatajeTrabajoReal: 0.093
+3. moVariacion: 0.055
+4. repNoKitCant: 0.041
+5. genDemora: 0.028
+6. genDuracion: 0.024
+7. genPromExp: 0.022
+8. genHh: 0.019
+9. moDesarmeVariacion: 0.016
+10. genPondNivel: 0.009
+11. moSalvatajeCantPersonal: 0.006
+12. genNVueltas: 0.001",128,7789.3509548401325,6129.624040120638,0.655960793745976,"max_depth:	5
+max_features:	8
+max_leaf_nodes:	7
+max_samples:	0.7
+min_samples_leaf:	5
+n_estimators:	20",2.35
+Random Forest,Completo,Maza,12,"1. genDuracion: 0.16
+2. moVariacion: 0.159
+3. genHh: 0.117
+4. moSalvatajeTrabajoReal: 0.112
+5. genPromExp: 0.096","1. genDuracion: 0.16
+2. moVariacion: 0.159
+3. genHh: 0.117
+4. moSalvatajeTrabajoReal: 0.112
+5. genPromExp: 0.096
+6. genPondNivel: 0.095
+7. repNP: 0.084
+8. repNoKitCant: 0.07
+9. moDesarmeVariacion: 0.05
+10. genDemora: 0.039
+11. genNVueltas: 0.018
+12. moSalvatajeCantPersonal: 0.0",198,23963.195398137057,20211.453716085518,-0.11158274799443424,"max_depth:	5
+max_features:	4
+max_leaf_nodes:	7
+max_samples:	0.8
+min_samples_leaf:	5
+n_estimators:	10",3.05
+Random Forest,Completo,Mando Final,12,"1. moSalvatajeTrabajoReal: 0.209
+2. repNP: 0.164
+3. genHh: 0.16
+4. genPondNivel: 0.12
+5. genDuracion: 0.089","1. moSalvatajeTrabajoReal: 0.209
+2. repNP: 0.164
+3. genHh: 0.16
+4. genPondNivel: 0.12
+5. genDuracion: 0.089
+6. genNVueltas: 0.064
+7. genPromExp: 0.051
+8. moVariacion: 0.045
+9. genDemora: 0.045
+10. moDesarmeVariacion: 0.026
+11. repNoKitCant: 0.016
+12. moSalvatajeCantPersonal: 0.011",162,41909.76956379686,30252.71703911369,0.0766681021844392,"max_depth:	5
+max_features:	8
+max_leaf_nodes:	7
+max_samples:	0.6
+min_samples_leaf:	5
+n_estimators:	10",2.62
+Random Forest,Completo,Motor,12,"1. repNP: 0.914
+2. moDesarmeVariacion: 0.023
+3. repNoKitCant: 0.017
+4. genHh: 0.016
+5. moSalvatajeTrabajoReal: 0.01","1. repNP: 0.914
+2. moDesarmeVariacion: 0.023
+3. repNoKitCant: 0.017
+4. genHh: 0.016
+5. moSalvatajeTrabajoReal: 0.01
+6. genDuracion: 0.008
+7. moVariacion: 0.007
+8. genPromExp: 0.002
+9. moSalvatajeCantPersonal: 0.001
+10. genPondNivel: 0.001
+11. genNVueltas: 0.0
+12. genDemora: 0.0",78,55385.400494028225,42502.38813424398,0.8701832154111175,"max_depth:	5
+max_features:	10
+max_leaf_nodes:	11
+max_samples:	0.9
+min_samples_leaf:	5
+n_estimators:	10",3.02
+Random Forest,Completo,Transmisor,12,"1. repNP: 0.427
+2. repNoKitCant: 0.364
+3. moVariacion: 0.141
+4. genDuracion: 0.023
+5. genPondNivel: 0.013","1. repNP: 0.427
+2. repNoKitCant: 0.364
+3. moVariacion: 0.141
+4. genDuracion: 0.023
+5. genPondNivel: 0.013
+6. moDesarmeVariacion: 0.008
+7. genDemora: 0.007
+8. genNVueltas: 0.007
+9. genHh: 0.005
+10. moSalvatajeCantPersonal: 0.004
+11. genPromExp: 0.001
+12. moSalvatajeTrabajoReal: 0.001",134,19872.918473981466,15012.446065291571,0.5491900491187651,"max_depth:	5
+max_features:	8
+max_leaf_nodes:	13
+max_samples:	0.6
+min_samples_leaf:	5
+n_estimators:	10",2.73
+Random Forest,Mano de Obra,Todos,10,"1. moSalvatajeTrabajoReal: 0.967
+2. genDuracion: 0.011
+3. genHh: 0.009
+4. moVariacion: 0.004
+5. genPondNivel: 0.004","1. moSalvatajeTrabajoReal: 0.967
+2. genDuracion: 0.011
+3. genHh: 0.009
+4. moVariacion: 0.004
+5. genPondNivel: 0.004
+6. moSalvatajeCantPersonal: 0.002
+7. moDesarmeVariacion: 0.002
+8. genPromExp: 0.001
+9. genDemora: 0.001
+10. genNVueltas: 0.0",796,7096.694513961589,2623.4972084044107,0.7582061830379652,"max_depth:	5
+max_features:	10
+max_leaf_nodes:	13
+max_samples:	0.9
+min_samples_leaf:	5
+n_estimators:	40",3.27
+Random Forest,Mano de Obra,Convertidor,10,"1. genPromExp: 0.226
+2. moDesarmeVariacion: 0.165
+3. genHh: 0.162
+4. moVariacion: 0.156
+5. genNVueltas: 0.091","1. genPromExp: 0.226
+2. moDesarmeVariacion: 0.165
+3. genHh: 0.162
+4. moVariacion: 0.156
+5. genNVueltas: 0.091
+6. genDuracion: 0.087
+7. genPondNivel: 0.059
+8. genDemora: 0.038
+9. moSalvatajeCantPersonal: 0.016
+10. moSalvatajeTrabajoReal: 0.0",93,1577.959876345568,1309.3352820711696,0.10908967687439763,"max_depth:	5
+max_features:	6
+max_leaf_nodes:	11
+max_samples:	0.7
+min_samples_leaf:	5
+n_estimators:	20",2.35
+Random Forest,Mano de Obra,Diferencial,10,"1. moSalvatajeTrabajoReal: 0.813
+2. genDuracion: 0.087
+3. moDesarmeVariacion: 0.032
+4. moVariacion: 0.027
+5. genPromExp: 0.013","1. moSalvatajeTrabajoReal: 0.813
+2. genDuracion: 0.087
+3. moDesarmeVariacion: 0.032
+4. moVariacion: 0.027
+5. genPromExp: 0.013
+6. genHh: 0.012
+7. moSalvatajeCantPersonal: 0.007
+8. genPondNivel: 0.004
+9. genDemora: 0.003
+10. genNVueltas: 0.002",128,917.0577333176517,559.430396951428,0.6686270889999958,"max_depth:	5
+max_features:	8
+max_leaf_nodes:	11
+max_samples:	0.6
+min_samples_leaf:	5
+n_estimators:	20",2.95
+Random Forest,Mano de Obra,Maza,10,"1. moDesarmeVariacion: 0.366
+2. moVariacion: 0.169
+3. moSalvatajeTrabajoReal: 0.097
+4. genDuracion: 0.093
+5. moSalvatajeCantPersonal: 0.079","1. moDesarmeVariacion: 0.366
+2. moVariacion: 0.169
+3. moSalvatajeTrabajoReal: 0.097
+4. genDuracion: 0.093
+5. moSalvatajeCantPersonal: 0.079
+6. genPromExp: 0.051
+7. genDemora: 0.044
+8. genNVueltas: 0.041
+9. genHh: 0.034
+10. genPondNivel: 0.026",198,667.1301046212405,511.472471683308,0.3188290176427695,"max_depth:	5
+max_features:	8
+max_leaf_nodes:	13
+max_samples:	0.8
+min_samples_leaf:	5
+n_estimators:	30",2.68
+Random Forest,Mano de Obra,Mando Final,10,"1. moSalvatajeTrabajoReal: 0.271
+2. moDesarmeVariacion: 0.213
+3. moSalvatajeCantPersonal: 0.188
+4. genDemora: 0.096
+5. genPromExp: 0.073","1. moSalvatajeTrabajoReal: 0.271
+2. moDesarmeVariacion: 0.213
+3. moSalvatajeCantPersonal: 0.188
+4. genDemora: 0.096
+5. genPromExp: 0.073
+6. moVariacion: 0.053
+7. genDuracion: 0.043
+8. genHh: 0.034
+9. genPondNivel: 0.018
+10. genNVueltas: 0.01",162,640.3791357110073,504.8019546158892,0.4686834855609585,"max_depth:	5
+max_features:	10
+max_leaf_nodes:	9
+max_samples:	0.9
+min_samples_leaf:	5
+n_estimators:	40",3.03
+Random Forest,Mano de Obra,Motor,10,"1. moSalvatajeTrabajoReal: 0.569
+2. moSalvatajeCantPersonal: 0.265
+3. genHh: 0.048
+4. moVariacion: 0.031
+5. genPromExp: 0.028","1. moSalvatajeTrabajoReal: 0.569
+2. moSalvatajeCantPersonal: 0.265
+3. genHh: 0.048
+4. moVariacion: 0.031
+5. genPromExp: 0.028
+6. genDuracion: 0.026
+7. moDesarmeVariacion: 0.016
+8. genPondNivel: 0.012
+9. genNVueltas: 0.004
+10. genDemora: 0.001",78,11185.726903157443,8000.323013295248,0.6613877223360513,"max_depth:	5
+max_features:	6
+max_leaf_nodes:	7
+max_samples:	0.7
+min_samples_leaf:	5
+n_estimators:	20",2.42
+Random Forest,Mano de Obra,Transmisor,10,"1. moSalvatajeTrabajoReal: 0.55
+2. moVariacion: 0.232
+3. moDesarmeVariacion: 0.059
+4. genPromExp: 0.043
+5. genPondNivel: 0.035","1. moSalvatajeTrabajoReal: 0.55
+2. moVariacion: 0.232
+3. moDesarmeVariacion: 0.059
+4. genPromExp: 0.043
+5. genPondNivel: 0.035
+6. genHh: 0.024
+7. genNVueltas: 0.023
+8. genDuracion: 0.019
+9. genDemora: 0.008
+10. moSalvatajeCantPersonal: 0.006",134,1585.445347572287,1096.476020640973,0.3822481213217398,"max_depth:	5
+max_features:	8
+max_leaf_nodes:	13
+max_samples:	0.7
+min_samples_leaf:	5
+n_estimators:	10",2.48
+Random Forest,Repuestos,Todos,8,"1. repNP: 0.917
+2. genPondNivel: 0.044
+3. repNoKitCant: 0.01
+4. genDemora: 0.009
+5. genDuracion: 0.008","1. repNP: 0.917
+2. genPondNivel: 0.044
+3. repNoKitCant: 0.01
+4. genDemora: 0.009
+5. genDuracion: 0.008
+6. genHh: 0.006
+7. genPromExp: 0.005
+8. genNVueltas: 0.001",796,34452.56785105209,24106.029452130424,0.8446330556137035,"max_depth:	5
+max_features:	8
+max_leaf_nodes:	13
+max_samples:	0.6
+min_samples_leaf:	5
+n_estimators:	40",3.28
+Random Forest,Repuestos,Convertidor,8,"1. repNP: 0.345
+2. repNoKitCant: 0.293
+3. genNVueltas: 0.11
+4. genDuracion: 0.072
+5. genHh: 0.067","1. repNP: 0.345
+2. repNoKitCant: 0.293
+3. genNVueltas: 0.11
+4. genDuracion: 0.072
+5. genHh: 0.067
+6. genPromExp: 0.051
+7. genPondNivel: 0.032
+8. genDemora: 0.03",93,8734.70148160258,6915.2279426714495,0.31034043582344584,"max_depth:	5
+max_features:	6
+max_leaf_nodes:	11
+max_samples:	0.7
+min_samples_leaf:	5
+n_estimators:	10",3.02
+Random Forest,Repuestos,Diferencial,8,"1. repNP: 0.677
+2. repNoKitCant: 0.111
+3. genDuracion: 0.062
+4. genHh: 0.044
+5. genPromExp: 0.036","1. repNP: 0.677
+2. repNoKitCant: 0.111
+3. genDuracion: 0.062
+4. genHh: 0.044
+5. genPromExp: 0.036
+6. genPondNivel: 0.029
+7. genDemora: 0.023
+8. genNVueltas: 0.017",128,7105.355964065718,5814.904847792208,0.6452350632221977,"max_depth:	5
+max_features:	6
+max_leaf_nodes:	7
+max_samples:	0.6
+min_samples_leaf:	5
+n_estimators:	30",2.3
+Random Forest,Repuestos,Maza,8,"1. genDuracion: 0.2
+2. genPondNivel: 0.166
+3. genHh: 0.165
+4. repNP: 0.141
+5. genNVueltas: 0.137","1. genDuracion: 0.2
+2. genPondNivel: 0.166
+3. genHh: 0.165
+4. repNP: 0.141
+5. genNVueltas: 0.137
+6. repNoKitCant: 0.111
+7. genPromExp: 0.071
+8. genDemora: 0.01",198,26559.242466660777,22118.463899040733,-0.06399535255975963,"max_depth:	5
+max_features:	4
+max_leaf_nodes:	13
+max_samples:	0.9
+min_samples_leaf:	5
+n_estimators:	10",2.6
+Random Forest,Repuestos,Mando Final,8,"1. genHh: 0.3
+2. repNP: 0.223
+3. genPondNivel: 0.145
+4. genDuracion: 0.144
+5. genPromExp: 0.068","1. genHh: 0.3
+2. repNP: 0.223
+3. genPondNivel: 0.145
+4. genDuracion: 0.144
+5. genPromExp: 0.068
+6. genDemora: 0.059
+7. repNoKitCant: 0.039
+8. genNVueltas: 0.023",162,45414.96150406048,33286.81389790458,-0.07870505020173857,"max_depth:	5
+max_features:	4
+max_leaf_nodes:	13
+max_samples:	0.6
+min_samples_leaf:	5
+n_estimators:	10",1.42
+Random Forest,Repuestos,Motor,8,"1. repNP: 0.824
+2. repNoKitCant: 0.141
+3. genPromExp: 0.01
+4. genHh: 0.01
+5. genDuracion: 0.006","1. repNP: 0.824
+2. repNoKitCant: 0.141
+3. genPromExp: 0.01
+4. genHh: 0.01
+5. genDuracion: 0.006
+6. genPondNivel: 0.005
+7. genDemora: 0.003
+8. genNVueltas: 0.001",78,50758.966891967815,43096.09654393869,0.843812961880323,"max_depth:	5
+max_features:	8
+max_leaf_nodes:	7
+max_samples:	0.6
+min_samples_leaf:	5
+n_estimators:	20",1.33
+Random Forest,Repuestos,Transmisor,8,"1. repNoKitCant: 0.442
+2. repNP: 0.395
+3. genDuracion: 0.078
+4. genHh: 0.022
+5. genNVueltas: 0.02","1. repNoKitCant: 0.442
+2. repNP: 0.395
+3. genDuracion: 0.078
+4. genHh: 0.022
+5. genNVueltas: 0.02
+6. genPondNivel: 0.019
+7. genDemora: 0.012
+8. genPromExp: 0.011",134,20725.53002319062,14667.53784226515,0.45420332692287824,"max_depth:	5
+max_features:	4
+max_leaf_nodes:	9
+max_samples:	0.6
+min_samples_leaf:	5
+n_estimators:	40",1.38

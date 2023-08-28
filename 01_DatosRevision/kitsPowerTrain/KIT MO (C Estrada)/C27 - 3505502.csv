@@ -1,0 +1,131 @@
+Serial Number or Prefix;Product;Order ID;Work Order;Segment;Operation;Additional Notes;
+0;;CCR 350-5502;;;;;
+;;;;;;;
+Part No.;Qty;Type;SMCS;Part Name;Group No.;Group Name;Note
+7E-6508;12;;;Cap AS;223-6408;Base GP-Valve Cover & Inj Harn;CCR DESARME
+253-1752;2;;1202;Plate-Thrust;225-6052;Crankshaft GP;CCR BLOCK
+354-8484;2;;1201;Gasket-Plate;349-2528;Cylinder Block GP;CCR DESARME
+5P-8356;4;;1201;Seal-O-Ring;349-2528;Cylinder Block GP;CCR DESARME
+240-9543;14;;1201;Washer;349-2528;Cylinder Block GP;CCR DESARME
+238-5082;2;;1201;Seal-O-Ring;349-2528;Cylinder Block GP;CCR DESARME
+6L-4428;3;;1201;Stud-Taperlock;349-2528;Cylinder Block GP;CCR DESARME
+214-7566;1;;1201;Seal-O-Ring;349-2528;Cylinder Block GP;CCR DESARME
+3B-0645;1;;1201;Plug-Cup;349-2528;Cylinder Block GP;CCR DESARME
+359-1439;48;;1100;Seal AS-Water;284-8891;Cylinder Head GP;CCR DESARME
+106-1792;24;;1100;Stud-Taperlock;284-8891;Cylinder Head GP;CCR CLT
+225-3099;2;;1100;Gasket-Cylinder Head;284-8891;Cylinder Head GP;CCR DESARME
+214-7568;10;;1100;Seal-O-Ring;284-8891;Cylinder Head GP;CCR CLT
+3G-2292;5;;;Bolt-Locking;355-2286;Gear GP-Front;CCR DESARME
+4N-0342;1;;;Plate;355-2286;Gear GP-Front;CCR DESARME
+7N-2443;1;;;Washer-Thrust;355-2286;Gear GP-Front;CCR DESARME
+131-7123;1;;;Bushing;355-2286;Gear GP-Front;CCR DESARME
+031-5085;6;;;Bolt-Locking;355-2286;Gear GP-Front;CCR DESARME
+117-8801;2;;;Seal-O-Ring;355-2286;Gear GP-Front;CCR DESARME
+5E-8771;2;;;Seal-O-Ring;355-2286;Gear GP-Front;CCR DESARME
+214-1727;1;;;Gasket;238-9862;Housing GP-Front;CCR DESARME
+2K-4973;1;;;Locknut;238-9862;Housing GP-Front;CCR DESARME
+3K-3256;2;;;Stud-Taperlock;238-9862;Housing GP-Front;CCR DESARME
+161-7293;1;;1166;Gasket-Cylinder;350-8861;Housing GP-Rear;CCR DESARME
+316-9154;1;;1166;Hose AS;350-8861;Housing GP-Rear;CCR DESARME
+061-8639;1;;1166;Seal-O-Ring;350-8861;Housing GP-Rear;CCR DESARME
+6V-5048;3;;1166;Seal-O-Ring;350-8861;Housing GP-Rear;CCR DESARME
+4C-9612;2;;1166;Sealant-Silicone;350-8861;Housing GP-Rear;CCR DESARME
+8S-9191;12;;;Bolt;235-1401;Pump GP-Fuel Injection;CCR DESARME
+357-1752;2;;;Gasket-Turbocharger;269-8930;Turbocharger GP;CCR TU&EL
+391-2167;8;;;Locknut-Flange;269-8930;Turbocharger GP;CCR TU&EL
+227-5538;2;;726A;Seal-O-Ring;270-8542;Cover GP-Access;CCR DESARME
+061-9455;1;;726A;Seal-O-Ring;270-8542;Cover GP-Access;CCR DESARME
+226-4753;2;;726A;Gasket;270-9200;Cover GP-Access;CCR DESARME
+3P-0655;2;;1157;Seal-O-Ring;270-8580;Cover GP-Rear Housing;CCR DESARME
+4N-0848;1;;1204;Sleeve-Wear;224-1213;Gear GP-Rear;CCR DESARME
+101-1365;1;;1204;Plate-Thrust;224-1213;Gear GP-Rear;CCR DESARME
+102-5861;2;;1204;Plate-Thrust;224-1213;Gear GP-Rear;CCR DESARME
+224-9664;3;;1204;Bushing;224-1213;Gear GP-Rear;CCR DESARME
+209-8622;2;;1204;Bushing;224-1213;Gear GP-Rear;CCR DESARME
+031-5085;6;;1204;Bolt-Locking;224-1213;Gear GP-Rear;CCR DESARME
+117-8801;2;;1204;Seal-O-Ring;224-1213;Gear GP-Rear;CCR DESARME
+5E-8771;2;;1204;Seal-O-Ring;224-1213;Gear GP-Rear;CCR DESARME
+5P-4255;4;;1204;Bolt-Locking;224-1213;Gear GP-Rear;CCR DESARME
+502-4034;1;;1204;Seal-O-Ring;224-1213;Gear GP-Rear;CCR DESARME
+8N-0879;8;;1059;Clamp;353-7172;Manifold GP-Exhaust;CCR DESARME
+239-1388;12;;1059;Gasket;353-7172;Manifold GP-Exhaust;CCR DESARME
+243-3565;8;;1059;Seal-O-Ring;353-7172;Manifold GP-Exhaust;CCR DESARME
+243-3566;4;;1059;Bellows AS;353-7172;Manifold GP-Exhaust;CCR DESARME
+393-5115;8;;1059;Stud-Taperlock;353-7172;Manifold GP-Exhaust;CCR DESARME
+2N-2766;24;;1059;Locknut;353-7172;Manifold GP-Exhaust;CCR DESARME
+4N-0864;1;;;Gasket;272-6669;Lines GP-Water;CCR DESARME
+4N-1946;1;;;Gasket;272-6669;Lines GP-Water;CCR DESARME
+231-4708;5;;;Seal-O-Ring;272-6669;Lines GP-Water;CCR DESARME
+3S-9643;2;;;Seal-Lip Type;272-6669;Lines GP-Water;CCR DESARME
+111-4374;1;;;Valve AS;272-6669;Lines GP-Water;CCR DESARME
+248-5513;2;;;Regulator-Water Temperature;272-6669;Lines GP-Water;CCR DESARME
+107-5769;2;;;Seal-O-Ring;272-6669;Lines GP-Water;CCR DESARME
+109-0074;1;;;Seal-O-Ring;272-6669;Lines GP-Water;CCR DESARME
+109-0076;3;;;Seal-O-Ring;272-6669;Lines GP-Water;CCR DESARME
+109-0077;2;;;Seal-O-Ring;272-6669;Lines GP-Water;CCR DESARME
+112-3258;1;;;Seal-O-Ring;272-6669;Lines GP-Water;CCR DESARME
+6V-5063;3;;;Seal-O-Ring;272-6669;Lines GP-Water;CCR DESARME
+6V-5064;1;;;Seal-O-Ring;272-6669;Lines GP-Water;CCR DESARME
+6V-6609;2;;;Seal-O-Ring;272-6669;Lines GP-Water;CCR DESARME
+6V-9027;2;;;Seal-O-Ring;272-6669;Lines GP-Water;CCR DESARME
+8T-1703;4;;;Seal-O-Ring;272-6669;Lines GP-Water;CCR DESARME
+200-6410;1;;1380;Seal-O-Ring;279-6017;Elbow GP-Water;CCR DESARME
+6V-9027;3;;1380;Seal-O-Ring;279-6017;Elbow GP-Water;CCR DESARME
+3S-2093;3;;;Strap-Cable;282-6859;Lines GP-Water;CCR DESARME
+7N-7628;8;;;Gasket;282-6859;Lines GP-Water;CCR DESARME
+109-3262;1;;;Hose AS;282-6859;Lines GP-Water;CCR DESARME
+126-0199;1;;;Hose AS;282-6859;Lines GP-Water;CCR DESARME
+067-2551;2;;;Clip;282-6859;Lines GP-Water;CCR DESARME
+180-8424;8;;;Seal-O-Ring;282-6859;Lines GP-Water;CCR DESARME
+6V-5063;1;;;Seal-O-Ring;282-6859;Lines GP-Water;CCR DESARME
+6V-6609;1;;;Seal-O-Ring;282-6859;Lines GP-Water;CCR DESARME
+6V-6609;1;;1380;Seal-O-Ring;277-6227;Plug GP-Water Lines;CCR DESARME
+9X-7371;1;;1361;Seal-O-Ring;4N-5837;Pump GP-Water;CCR DESARME
+112-1579;1;;1361;Seal-O-Ring;4N-5837;Pump GP-Water;CCR BBA
+112-1580;1;;1361;Seal-O-Ring;4N-5837;Pump GP-Water;CCR BBA
+226-5613;2;;1058;Gasket;255-8166;Manifold GP-Inlet;CCR DESARME
+6V-4589;2;;1058;Seal-O-Ring;255-8166;Manifold GP-Inlet;CCR DESARME
+6V-5048;1;;1058;Seal-O-Ring;255-8166;Manifold GP-Inlet;CCR DESARME
+8L-2786;1;;1058;Seal-O-Ring;255-8166;Manifold GP-Inlet;CCR DESARME
+6L-3005;2;;1058;Clamp-Band;223-6403;Manifold GP-Inlet;CCR DESARME
+6V-6353;2;;1058;Seal-O-Ring;223-6403;Manifold GP-Inlet;CCR DESARME
+6V-5049;2;;1087;Seal-O-Ring;277-6232;Elbow GP-Air Inlet;CCR DESARME
+6N-2985;1;;1316;Cap-Filler;253-5389;Filler GP-Engine Oil;CCR DESARME
+0S-1591;2;;1316;Bolt;253-5389;Filler GP-Engine Oil;CCR DESARME
+5P-8211;1;;1316;Seal-O-Ring;253-5389;Filler GP-Engine Oil;CCR DESARME
+113-5253;1;;1316;Cap AS-Filler;253-5389;Filler GP-Engine Oil;CCR DESARME
+1R-1808;2;;;Filter-Engine Oil;264-1492;Filter GP-Engine Oil;CCR DESARME
+4N-0865;1;;;Gasket;264-1492;Filter GP-Engine Oil;CCR DESARME
+4N-8150;2;;;Spring;264-1492;Filter GP-Engine Oil;CCR DESARME
+113-5304;3;;;Seal-O-Ring;264-1492;Filter GP-Engine Oil;CCR DESARME
+5P-8068;1;;;Seal-O-Ring;264-1492;Filter GP-Engine Oil;CCR DESARME
+8C-3445;1;;1306;Cap-Dust;264-1491;Base AS-Oil Filter;CCR DESARME
+6V-5048;1;;1306;Seal-O-Ring;264-1491;Base AS-Oil Filter;CCR DESARME
+6V-5049;1;;1306;Seal-O-Ring;264-1491;Base AS-Oil Filter;CCR DESARME
+8C-3446;1;;1306;Valve-Sampling;264-1491;Base AS-Oil Filter;CCR DESARME
+7N-7559;2;;;Gasket;269-0307;Lines GP-Turbocharger Oil;CCR DESARME
+106-9586;1;;;Seal-O-Ring;269-0307;Lines GP-Turbocharger Oil;CCR DESARME
+112-3540;2;;;Seal-O-Ring;269-0307;Lines GP-Turbocharger Oil;CCR DESARME
+5P-5846;2;;;Seal-O-Ring;269-0307;Lines GP-Turbocharger Oil;CCR DESARME
+6V-4589;2;;;Seal-O-Ring;269-0307;Lines GP-Turbocharger Oil;CCR DESARME
+7N-8875;2;;;Gasket;269-0307;Lines GP-Turbocharger Oil;CCR DESARME
+8L-2746;2;;;Seal-O-Ring;269-0307;Lines GP-Turbocharger Oil;CCR DESARME
+9X-6451;1;;1302;Plug-Drain;269-6960;Cover GP-Oil Pan;CCR DESARME
+239-5572;2;;1302;Seal-Integral;269-6960;Cover GP-Oil Pan;CCR DESARME
+061-9458;1;;1302;Seal-O-Ring;269-6960;Cover GP-Oil Pan;CCR DESARME
+8L-2786;1;;1302;Seal-O-Ring;269-6960;Cover GP-Oil Pan;CCR DESARME
+6N-1396;1;;1302;Gasket-Oil Pan;297-3294;Pan GP-Oil;CCR DESARME
+4N-1151;1;;1302;Gasket;131-6205;Pan GP-Oil;CCR DESARME
+239-1139;2;;726A;Seal;252-9882;Cover GP-Access;CCR DESARME
+125-9794;1;;726A;Seal-O-Ring;252-9882;Cover GP-Access;CCR DESARME
+2M-1538;1;;726A;Stud-Taperlock;252-9882;Cover GP-Access;CCR DESARME
+2P-1974;3;;726A;Stud-Taperlock;252-9882;Cover GP-Access;CCR DESARME
+234-8937;1;;726A;Seal-Integral;279-8839;Cover GP-Access;CCR DESARME
+234-8937;4;;726A;Seal-Integral;270-9199;Cover GP-Access;CCR DESARME
+142-5868;1;;;Seal-Crankshaft;319-0785;Seal GP-Crankshaft;CCR BLOCK
+142-5867;1;;;Seal-Crankshaft;319-7401;Seal GP-Crankshaft;CCR BLOCK
+6V-0128;2;;;Seal-Connector;226-4927;Base GP-Valve Cover & Inj Harn;CCR DESARME
+326-4512;12;;;Mounting-Cable Tie;226-4927;Base GP-Valve Cover & Inj Harn;CCR DESARME
+435-8538;2;;;Harness AS-Engine;226-4927;Base GP-Valve Cover & Inj Harn;CCR DESARME
+123-3202;20;;;Strap-Cable;226-4927;Base GP-Valve Cover & Inj Harn;CCR DESARME
+222-6456;2;;;Seal;226-4927;Base GP-Valve Cover & Inj Harn;CCR DESARME

@@ -1,0 +1,256 @@
+Serial Number or Prefix;Product;Order ID;Work Order;Segment;Operation;Additional Notes;
+0;;CCR WRH 3665513;;;;;
+;;;;;;;
+Part No.;Qty;Type;SMCS;Part Name;Group No.;Group Name;Note
+7N-2156;2;;1304;Bushing;161-4113;Pump GP-Engine Oil;CCR BBA
+8S-6511;2;;1304;Bushing;161-4113;Pump GP-Engine Oil;CCR BBA
+2S-2760;1;;1304;Spring;161-4113;Pump GP-Engine Oil;CCR BBA
+9M-3786;1;;1361;Seal-O-Ring;174-5986;Pump GP-Water;CCR BBA
+122-3772;1;;1361;Seal-O-Ring;174-5986;Pump GP-Water;CCR BBA
+109-0077;1;;1361;Seal-O-Ring;174-5986;Pump GP-Water;CCR BBA
+108-7930;1;;1361;Bearing AS-Roller;352-0211;Pump GP-Water;CCR BBA
+136-3742;1;;1361;Filter;352-0211;Pump GP-Water;CCR BBA
+550-5420;1;;1361;Seal AS;352-0211;Pump GP-Water;CCR BBA
+153-1256;1;;1361;Seal-Lip Type;352-0211;Pump GP-Water;CCR BBA
+317-8766;7;;1202;Bearing-Main;189-4917;Crankshaft GP;CCR BLK
+4N-0684;1;;1202;Dowel;189-4917;Crankshaft GP;CCR BLK
+253-1752;2;;1202;Plate-Thrust;189-4917;Crankshaft GP;CCR BLK
+9L-5854;6;;1201;Band-Filler;488-1677;Cylinder Block AS;CCR BLK
+6I-1055;1;;1201;Dowel;261-0191;Cylinder Block GP;CCR BLK
+4N-1650;1;;1201;Dowel;261-0191;Cylinder Block GP;CCR BLK
+1S-9540;1;;1201;Dowel;261-0191;Cylinder Block GP;CCR BLK
+227-1204;1;;1201;Gasket;261-0191;Cylinder Block GP;CCR BLK
+100-7399;2;;1201;Plug;261-0191;Cylinder Block GP;CCR BLK
+142-2329;1;;1201;Seal;261-0191;Cylinder Block GP;CCR BLK
+230-3728;2;;1201;Seal-O-Ring;261-0191;Cylinder Block GP;CCR BLK
+5P-0840;1;;1201;Seal-O-Ring;261-0191;Cylinder Block GP;CCR BLK
+261-3450;6;;1225;Bearing-Connecting Rod;368-7820;Piston & Rod GP;CCR BLK
+6V-6609;1;;1201;Seal-O-Ring;234-9706;Plug GP-Cylinder Block;CCR BLK
+214-7566;1;;1201;Seal-O-Ring;234-9706;Plug GP-Cylinder Block;CCR BLK
+238-5080;1;;1201;Seal-O-Ring;234-9706;Plug GP-Cylinder Block;CCR BLK
+6V-6609;2;;1201;Seal-O-Ring;247-8211;Plug GP-Cylinder Block;CCR BLK
+214-7566;1;;1201;Seal-O-Ring;247-8211;Plug GP-Cylinder Block;CCR BLK
+238-5080;5;;1201;Seal-O-Ring;247-8211;Plug GP-Cylinder Block;CCR BLK
+238-5081;1;;1201;Seal-O-Ring;247-8211;Plug GP-Cylinder Block;CCR BLK
+6V-5065;1;;1201;Seal-O-Ring;305-9196;Plug GP-Cylinder Block;CCR BLK
+5P-0840;1;;1100;Seal-O-Ring;432-5472;Cylinder Head GP;CCR CULATAS
+214-7568;3;;1100;Seal-O-Ring;432-5472;Cylinder Head GP;CCR CULATAS
+6V-3251;1;;1100;Seal-O-Ring;234-9184;Plug GP-Cylinder Head;CCR CULATAS
+214-7568;4;;1100;Seal-O-Ring;234-9184;Plug GP-Cylinder Head;CCR CULATAS
+1B-3867;2;;1313;Ball Bearing;133-9907;Adapter GP-Pump Drive;CCR DESAR
+437-7746;2;;1405;Mount;584-3419;Alternator & Mounting GP;CCR DESAR
+6N-7135;1;;1405;V-Belt;584-3419;Alternator & Mounting GP;CCR DESAR
+228-7089;1;;1262;Seal-O-Ring;191-5055;Base GP-Fuel Filter;CCR DESAR
+238-5080;1;;1262;Seal-O-Ring;191-5055;Base GP-Fuel Filter;CCR DESAR
+9L-8925;14;;1120;Bolt;278-5662;Base GP-Valve Cover & Inj Harn;CCR DESAR
+7E-6508;6;;1120;Cap AS;278-5662;Base GP-Valve Cover & Inj Harn;CCR DESAR
+425-0289;1;;1120;Harness AS-Wiring;278-5662;Base GP-Valve Cover & Inj Harn;CCR DESAR
+326-4512;6;;1120;Mounting-Cable Tie;278-5662;Base GP-Valve Cover & Inj Harn;CCR DESAR
+272-0390;1;;1120;Seal;278-5662;Base GP-Valve Cover & Inj Harn;CCR DESAR
+6V-0128;1;;1120;Seal-Connector;278-5662;Base GP-Valve Cover & Inj Harn;CCR DESAR
+123-3202;6;;1120;Strap-Cable;278-5662;Base GP-Valve Cover & Inj Harn;CCR DESAR
+6V-1197;1;;1210;Seal-O-Ring;243-0551;Camshaft GP;CCR DESAR
+2N-2765;2;;1061;Bolt-High Temperature;254-3226;Connection GP-Exhaust;CCR DESAR
+2N-2766;2;;1061;Locknut;254-3226;Connection GP-Exhaust;CCR DESAR
+5L-8854;2;;1061;Ring-Sealing;254-3226;Connection GP-Exhaust;CCR DESAR
+109-1145;4;;1352;Clamp-Hose;255-4652;Coolant Conditioner GP;CCR DESAR
+101-2840;1;;1352;Hose;255-4652;Coolant Conditioner GP;CCR DESAR
+6V-3250;2;;1352;Seal-O-Ring;255-4652;Coolant Conditioner GP;CCR DESAR
+6V-5063;2;;1352;Seal-O-Ring;255-4652;Coolant Conditioner GP;CCR DESAR
+9N-3666;2;;1352;Valve-Manual;255-4652;Coolant Conditioner GP;CCR DESAR
+4N-0699;1;;1201;Gasket;107-6736;Cover GP-Cylinder Block;CCR DESAR
+126-4935;1;;1201;Seal-Integral;140-9746;Cover GP-Cylinder Block;CCR DESAR
+117-8801;1;;1201;Seal-O-Ring;229-5519;Cover GP-Cylinder Block;CCR DESAR
+214-7566;1;;1201;Seal-O-Ring;229-5519;Cover GP-Cylinder Block;CCR DESAR
+238-5080;1;;1201;Seal-O-Ring;229-5519;Cover GP-Cylinder Block;CCR DESAR
+6V-6609;1;;1201;Seal-O-Ring;229-5519;Cover GP-Cylinder Block;CCR DESAR
+234-8937;1;;1157;Seal-Integral;9N-3889;Cover GP-Flywheel Housing;CCR DESAR
+031-4155;2;;1151;Locknut;159-6159;Cover GP-Front Housing;CCR DESAR
+160-7271;1;;1151;Seal;159-6159;Cover GP-Front Housing;CCR DESAR
+061-9455;1;;1151;Seal-O-Ring;120-9847;Cover GP-Front Housing;CCR DESAR
+238-5078;2;;1151;Seal-O-Ring;159-6159;Cover GP-Front Housing;CCR DESAR
+149-7378;18;;1107;Grommet;150-3135;Cover GP-Valve Mechanism;CCR DESAR
+242-9537;3;;1107;Seal-Valve Cover;150-3135;Cover GP-Valve Mechanism;CCR DESAR
+359-1439;24;;1100;Seal AS-Water;432-5472;Cylinder Head GP;CCR DESAR
+281-8261;6;;1100;Sleeve AS-Exhaust;432-5472;Cylinder Head GP;CCR DESAR
+8T-9527;1;;3108;Seal-O-Ring;6I-3638;Drive GP-Pump;CCR DESAR
+101-3125;1;;1087;Gasket;369-7970;Elbow GP-Air Inlet;CCR DESAR
+8L-8413;6;;1102;Strap-Cable;109-1657;Fastener GP-Valve Mechanism;CCR DESAR
+9L-8439;1;;1316;Cap-Oil Filler;110-8876;Filler GP-Engine Oil;CCR DESAR
+210-9246;1;;1316;Seal-O-Ring;110-8876;Filler GP-Engine Oil;CCR DESAR
+9N-6123;1;;1352;Filter-Coolant Conditioner;126-0112;Filter AS-Coolant Conditioner;CCR DESAR
+8C-3445;1;;1306;Cap-Dust;268-6625;Filter GP-Engine Oil;CCR DESAR
+1R-1808;3;;1306;Filter-Engine Oil;268-6625;Filter GP-Engine Oil;CCR DESAR
+392-9208;2;;1306;Plunger-Valve;268-6625;Filter GP-Engine Oil;CCR DESAR
+214-7568;2;;1306;Seal-O-Ring;268-6625;Filter GP-Engine Oil;CCR DESAR
+238-5084;2;;1306;Seal-O-Ring;268-6625;Filter GP-Engine Oil;CCR DESAR
+214-7566;1;;1306;Seal-O-Ring;268-6625;Filter GP-Engine Oil;CCR DESAR
+8C-5230;4;;1306;Seal-O-Ring;268-6625;Filter GP-Engine Oil;CCR DESAR
+113-5304;2;;1306;Seal-O-Ring;268-6625;Filter GP-Engine Oil;CCR DESAR
+4N-8150;2;;1306;Spring;268-6625;Filter GP-Engine Oil;CCR DESAR
+8C-3446;1;;1306;Valve-Sampling;268-6625;Filter GP-Engine Oil;CCR DESAR
+343-5527;1;;1261;Bowl AS;212-9580;Filter GP-Water Sep & Fuel;CCR DESAR
+326-1643;1;;1261;Filter AS-Water Sep & Fuel;212-9580;Filter GP-Water Sep & Fuel;CCR DESAR
+3J-1907;1;;1261;Seal-O-Ring;212-9580;Filter GP-Water Sep & Fuel;CCR DESAR
+5F-9144;1;;1261;Seal-O-Ring;212-9580;Filter GP-Water Sep & Fuel;CCR DESAR
+8F-7219;1;;1261;Seal-O-Ring;212-9580;Filter GP-Water Sep & Fuel;CCR DESAR
+220-8678;1;;1261;Seal-Ring;212-9580;Filter GP-Water Sep & Fuel;CCR DESAR
+6V-0852;1;;1256;Cap-Dust;108-2312;Fitting GP-Quick Disconnect;CCR DESAR
+6V-3965;1;;1256;Fitting;108-2312;Fitting GP-Quick Disconnect;CCR DESAR
+9M-0164;1;;1074;Clamp-Hose;159-9362;Fumes Disposal GP;CCR DESAR
+161-6622;1;;1074;Clip;159-9362;Fumes Disposal GP;CCR DESAR
+5P-2369;1;;1074;Clip;159-9362;Fumes Disposal GP;CCR DESAR
+207-8128;1;;1074;Hose AS;159-9362;Fumes Disposal GP;CCR DESAR
+8N-1667;1;;1326;Gauge AS-Oil Level (Dipstick);266-0769;Gauge GP-Oil Level (Dipstick);CCR DESAR
+165-6170;3;;1326;Plug;266-0769;Gauge GP-Oil Level (Dipstick);CCR DESAR
+118-5068;1;;1326;Seal-O-Ring;266-0769;Gauge GP-Oil Level (Dipstick);CCR DESAR
+576-3697;3;;1151;Bolt;207-0449;Gear GP-Front;CCR DESAR
+130-4698;1;;1151;Bushing;207-0449;Gear GP-Front;CCR DESAR
+101-8468;1;;1151;Bushing;207-0449;Gear GP-Front;CCR DESAR
+131-7123;1;;1151;Bushing;207-0449;Gear GP-Front;CCR DESAR
+117-8801;1;;1151;Seal-O-Ring;207-0449;Gear GP-Front;CCR DESAR
+5E-8771;1;;1151;Seal-O-Ring;207-0449;Gear GP-Front;CCR DESAR
+8F-1846;1;;1157;Gasket;430-8379;Grupo De Caja Del Volante;CCR DESAR
+155-5619;1;;1157;Gasket Housing Rear;135-7634;Housing GP-Flywheel;CCR DESAR
+166-9144;1;;1151;Gasket Housing Front;269-2509;Housing GP-Front;CCR DESAR
+155-9524;1;;1151;Seal-Integral Housing;269-2509;Housing GP-Front;CCR DESAR
+127-0929;1;;1071;Clamp-V Band;126-0081;Lines GP-Air;CCR DESAR
+214-7566;1;;1071;Seal-O-Ring;126-0081;Lines GP-Air;CCR DESAR
+8C-3089;1;;1071;Seal-O-Ring;126-0081;Lines GP-Air;CCR DESAR
+101-6603;1;;1261;Cap;358-8534;Lines GP-Fuel Filter;CCR DESAR
+4P-8134;1;;1261;Clip;358-8534;Lines GP-Fuel Filter;CCR DESAR
+8C-5064;1;;1261;Conduit-Flexible;358-8534;Lines GP-Fuel Filter;CCR DESAR
+7V-6571;4;;1261;Grommet;358-8534;Lines GP-Fuel Filter;CCR DESAR
+7N-4045;1;;1261;Hose AS;237-4290;Lines GP-Fuel Filter;CCR DESAR
+4P-0902;1;;1261;Hose AS;358-8534;Lines GP-Fuel Filter;CCR DESAR
+9N-5613;1;;1261;Hose AS;358-8534;Lines GP-Fuel Filter;CCR DESAR
+172-3443;1;;1261;Hose AS;358-8534;Lines GP-Fuel Filter;CCR DESAR
+247-0486;1;;1261;Hose AS;358-8534;Lines GP-Fuel Filter;CCR DESAR
+230-4011;1;;1261;Plug AS-Connector;358-8534;Lines GP-Fuel Filter;CCR DESAR
+8T-8737;2;;1261;Plug-Seal;358-8534;Lines GP-Fuel Filter;CCR DESAR
+264-7029;1;;1261;Seal-Connector;358-8534;Lines GP-Fuel Filter;CCR DESAR
+238-5080;1;;1261;Seal-O-Ring;237-4290;Lines GP-Fuel Filter;CCR DESAR
+214-7568;3;;1261;Seal-O-Ring;237-4290;Lines GP-Fuel Filter;CCR DESAR
+238-5080;2;;1261;Seal-O-Ring;358-8534;Lines GP-Fuel Filter;CCR DESAR
+214-7568;7;;1261;Seal-O-Ring;358-8534;Lines GP-Fuel Filter;CCR DESAR
+214-7566;1;;1261;Seal-O-Ring;358-8534;Lines GP-Fuel Filter;CCR DESAR
+3S-2093;9;;1261;Strap-Cable;358-8534;Lines GP-Fuel Filter;CCR DESAR
+7C-0145;1;;1355;Core AS-Oil Cooler;255-9246;Lines GP-Water;CCR DESAR
+247-7133;2;;1355;Regulator-Water Temperature;255-9246;Lines GP-Water;CCR DESAR
+341-1429;1;;1355;Seal;255-9246;Lines GP-Water;CCR DESAR
+125-0434;1;;1355;Seal-Integral;255-9246;Lines GP-Water;CCR DESAR
+126-4935;1;;1355;Seal-Integral;255-9246;Lines GP-Water;CCR DESAR
+3S-9643;2;;1355;Seal-Lip Type;255-9246;Lines GP-Water;CCR DESAR
+109-0077;2;;1355;Seal-O-Ring;255-9246;Lines GP-Water;CCR DESAR
+167-4407;1;;1355;Seal-O-Ring;255-9246;Lines GP-Water;CCR DESAR
+171-4358;2;;1355;Seal-O-Ring;255-9246;Lines GP-Water;CCR DESAR
+291-8145;1;;1355;Seal-O-Ring;255-9246;Lines GP-Water;CCR DESAR
+6V-3250;2;;1355;Seal-O-Ring;255-9246;Lines GP-Water;CCR DESAR
+6V-6609;6;;1355;Seal-O-Ring;255-9246;Lines GP-Water;CCR DESAR
+6V-5063;2;;1355;Seal-O-Ring;255-9246;Lines GP-Water;CCR DESAR
+129-9452;6;;1059;Gasket-Exhaust Manifold;237-4291;Manifold GP-Exhaust;CCR DESAR
+2N-2766;12;;1059;Locknut;237-4291;Manifold GP-Exhaust;CCR DESAR
+106-1792;11;;1059;Stud-Taperlock;237-4291;Manifold GP-Exhaust;CCR DESAR
+4S-6137;1;;1059;Stud-Taperlock;237-4291;Manifold GP-Exhaust;CCR DESAR
+357-0351;4;;1059;Stud-Taperlock;389-9575;Manifold GP-Exhaust;CCR DESAR
+5M-2894;12;;1059;Washer-Hard;237-4291;Manifold GP-Exhaust;CCR DESAR
+3K-0360;2;;1274;Seal-O-Ring;191-0583;Manifold GP-Fuel;CCR DESAR
+033-6042;2;;1274;Seal-O-Ring;191-0583;Manifold GP-Fuel;CCR DESAR
+1B-4430;2;;1154;Nut-Jam;118-3419;Mounting GP-Alternator;CCR DESAR
+188-0210;2;;1302;Gasket Pan As Oil;109-3289;Pan GP-Oil;CCR DESAR
+121-0145;3;;1302;Seal-O-Ring;109-3289;Pan GP-Oil;CCR DESAR
+5P-8068;1;;1302;Seal-O-Ring;109-3289;Pan GP-Oil;CCR DESAR
+5P-5846;1;;1302;Seal-O-Ring;109-3289;Pan GP-Oil;CCR DESAR
+129-5427;2;;1151;Washer-Special;353-9982;Plate AS-Front Housing;CCR DESAR
+6V-6609;1;;1100;Seal-O-Ring;234-9776;Plug GP-Engine;CCR DESAR
+2A-1162;1;;1157;Gasket;135-8015;Plug GP-Flywheel Housing;CCR DESAR
+238-5082;1;;1380;Seal-O-Ring;255-9251;Plug GP-Water Lines;CCR DESAR
+6V-5063;2;;1380;Seal-O-Ring;255-9252;Plug GP-Water Lines;CCR DESAR
+6V-5063;1;;1380;Seal-O-Ring;311-1441;Plug GP-Water Lines;CCR DESAR
+384-8612;1;;1256;Pump GP-Fuel Transfer;150-4279;Pump & Mtg GP-Fuel Transfer;CCR DESAR
+107-5769;2;;1256;Seal-O-Ring;150-4279;Pump & Mtg GP-Fuel Transfer;CCR DESAR
+8S-9191;6;;1251;Bolt;235-1403;Pump GP-Fuel Injection;CCR DESAR
+253-0618;6;;1251;Injector GP-Fuel;235-1403;Pump GP-Fuel Injection;CCR DESAR
+9X-7317;6;;1251;Seal-O-Ring;235-1403;Pump GP-Fuel Injection;CCR DESAR
+230-3728;6;;1251;Seal-O-Ring;235-1403;Pump GP-Fuel Injection;CCR DESAR
+230-3775;6;;1251;Seal-O-Ring;235-1403;Pump GP-Fuel Injection;CCR DESAR
+1R-0749;1;;1258;Filter-Fuel;191-5054;Pump GP-Fuel Prm & Sec Filter;CCR DESAR
+1P-0436;1;;1258;Gasket;191-5054;Pump GP-Fuel Prm & Sec Filter;CCR DESAR
+137-5541;1;;1258;Pump GP-Fuel Priming;191-5054;Pump GP-Fuel Prm & Sec Filter;CCR DESAR
+258-8721;12;;1123;Button;437-3864;Rocker Arm GP;CCR DESAR
+258-8721;6;;1123;Button;489-8222;Rocker Arm GP;CCR DESAR
+3S-2713;12;;1123;Nut-Full;437-3864;Rocker Arm GP;CCR DESAR
+196-5070;6;;1123;Nut-Jam;489-8222;Rocker Arm GP;CCR DESAR
+437-3863;12;;1123;Rocker Arm AS;437-3864;Rocker Arm GP;CCR DESAR
+437-3861;6;;1123;Rocker Arm AS;489-8222;Rocker Arm GP;CCR DESAR
+274-4491;12;;1123;Screw-Arm Adjustment;437-3864;Rocker Arm GP;CCR DESAR
+274-4492;6;;1123;Screw-Arm Adjustment;489-8222;Rocker Arm GP;CCR DESAR
+8L-2777;12;;1123;Seal-O-Ring;437-3864;Rocker Arm GP;CCR DESAR
+8L-2777;6;;1123;Seal-O-Ring;489-8222;Rocker Arm GP;CCR DESAR
+142-5868;1;;1160;Seal-Crankshaft;319-0785;Seal GP-Crankshaft;CCR DESAR
+142-5867;1;;1160;Seal-Crankshaft;319-7401;Seal GP-Crankshaft;CCR DESAR
+0S-1591;2;;1067;Bolt;124-0657;Shield GP-Manifold;CCR DESAR
+238-5081;1;;1262;Seal-O-Ring;233-6742;Valve GP-Check;CCR DESAR
+238-5081;1;;1262;Seal-O-Ring;382-6044;Valve GP-Check;CCR DESAR
+281-2725;1;;1262;Valve GP-Check;233-6742;Valve GP-Check;CCR DESAR
+139-6873;1;;1262;Valve GP-Fuel Bypass;382-6044;Valve GP-Check;CCR DESAR
+571-9902;1;;;Gasket AS-Cylinder Head;;;CCR DESAR
+7N-7827;1;;;Cover Shipping Flywheel;;;CCR DESAR
+1U-5573;1;;;Aditivo Dinamometro;;;CCR DESAR
+8T-9655;8;;1900;Mount-Isolation;236-1780;Control & Mtg GP-Engine Elek;CCR EL&TU
+359-1903;1;;1261;Harness AS-Control;358-8534;Lines GP-Fuel Filter;CCR EL&TU
+274-6719;1;;1261;Sensor GP-Pressure;358-8534;Lines GP-Fuel Filter;CCR EL&TU
+4N-0699;1;;1052;Gasket;212-1487;Lines GP-Turbocharger Oil;CCR EL&TU
+126-2702;1;;1052;Seal-Integral;212-1487;Lines GP-Turbocharger Oil;CCR EL&TU
+198-6068;1;;1052;Seal-Integral;212-1487;Lines GP-Turbocharger Oil;CCR EL&TU
+114-2687;1;;1052;Seal-O-Ring;212-1487;Lines GP-Turbocharger Oil;CCR EL&TU
+238-5081;1;;1052;Seal-O-Ring;212-1487;Lines GP-Turbocharger Oil;CCR EL&TU
+171-2212;1;;1420;Circuit Breaker AS;338-1122;Mounting GP-Circuit Breaker;CCR EL&TU
+253-2111;2;;1420;Lockwasher;338-1122;Mounting GP-Circuit Breaker;CCR EL&TU
+6V-3683;1;;1439;Seal-O-Ring;194-3967;Mounting GP-Sensor;CCR EL&TU
+8J-4351;1;;1439;Seal-O-Ring;194-3967;Mounting GP-Sensor;CCR EL&TU
+430-9449;1;;7422;Sensor GP-Coolant Level;430-9449;Sensor GP-Coolant Level;CCR EL&TU
+3P-1155;1;;1403;Seal-O-Ring;354-0041;Sensor GP-Engine;CCR EL&TU
+214-7568;1;;1403;Seal-O-Ring;354-0041;Sensor GP-Engine;CCR EL&TU
+214-7566;2;;1403;Seal-O-Ring;354-0041;Sensor GP-Engine;CCR EL&TU
+274-6719;1;;1403;Sensor GP-Pressure;354-0041;Sensor GP-Engine;CCR EL&TU
+214-7566;1;;1718;Seal-O-Ring;249-0096;Sensor GP-Pressure;CCR EL&TU
+274-6718;1;;1718;Sensor GP-Pressure;249-0096;Sensor GP-Pressure;CCR EL&TU
+214-7568;1;;1718;Seal-O-Ring;276-8548;Sensor GP-Pressure;CCR EL&TU
+274-6717;1;;1718;Sensor-Pressure;276-8548;Sensor GP-Pressure;CCR EL&TU
+228-4947;1;;1907;Seal-O-Ring;214-2484;Sensor GP-Speed;CCR EL&TU
+191-8303;1;;1907;Sensor GP-Speed;214-2484;Sensor GP-Speed;CCR EL&TU
+228-4947;1;;1907;Seal-O-Ring;300-9804;Sensor GP-Speed;CCR EL&TU
+279-9830;1;;1907;Sensor GP-Speed;300-9804;Sensor GP-Speed;CCR EL&TU
+6V-6609;1;;1906;Seal-O-Ring;234-5012;Sensor GP-Temperature;CCR EL&TU
+256-6453;1;;1906;Sensor-Temperature;234-5012;Sensor GP-Temperature;CCR EL&TU
+238-5080;2;;1906;Seal-O-Ring;234-5013;Sensor GP-Temperature;CCR EL&TU
+256-6453;2;;1906;Sensor-Temperature;234-5013;Sensor GP-Temperature;CCR EL&TU
+4H-7869;2;;1453;Gasket;177-1655;Starting Motor GP-Electric;CCR EL&TU
+2N-2765;4;;1052;Bolt-High Temperature;262-1078;Turbocharger GP;CCR EL&TU
+1S-4295;1;;1052;Gasket;262-1078;Turbocharger GP;CCR EL&TU
+2N-2766;4;;1052;Locknut;262-1078;Turbocharger GP;CCR EL&TU
+357-1752;1;;1052;Gasket-Turbocharger;396-3323;Turbocharger GP;CCR EL&TU
+375-2467;4;;1052;Locknut-Flange;396-3323;Turbocharger GP;CCR EL&TU
+4P-7581;2;;1405;Clip;313-1361;Wiring GP-Alternator;CCR EL&TU
+8N-0869;2;;1405;Cover-Terminal;313-1361;Wiring GP-Alternator;CCR EL&TU
+9G-8909;2;;1405;Cover-Terminal;313-1361;Wiring GP-Alternator;CCR EL&TU
+313-1360;1;;1405;Harness AS-Power;313-1361;Wiring GP-Alternator;CCR EL&TU
+200-6345;1;;1405;Saddle-Mounting;313-1361;Wiring GP-Alternator;CCR EL&TU
+110-8760;1;;1405;Strap;313-1361;Wiring GP-Alternator;CCR EL&TU
+7K-1181;7;;1405;Strap-Cable;313-1361;Wiring GP-Alternator;CCR EL&TU
+104-6202;2;;1408;Clip;359-0920;Wiring GP-Electronic Control;CCR EL&TU
+132-5789;2;;1408;Clip;359-0920;Wiring GP-Electronic Control;CCR EL&TU
+4P-7429;1;;1408;Clip;359-0920;Wiring GP-Electronic Control;CCR EL&TU
+4P-7581;3;;1408;Clip;359-0920;Wiring GP-Electronic Control;CCR EL&TU
+4P-7582;1;;1408;Clip;359-0920;Wiring GP-Electronic Control;CCR EL&TU
+4P-8134;5;;1408;Clip;359-0920;Wiring GP-Electronic Control;CCR EL&TU
+354-0049;1;;1408;Harness AS-Engine;359-0920;Wiring GP-Electronic Control;CCR EL&TU
+3S-2093;17;;1408;Strap-Cable;359-0920;Wiring GP-Electronic Control;CCR EL&TU
+7K-1181;2;;1408;Strap-Cable;359-0920;Wiring GP-Electronic Control;CCR EL&TU
+6K-0806;3;;1408;Strap-Cable;359-0920;Wiring GP-Electronic Control;CCR EL&TU
+155-0809;6;;1201;Seal-Liner;488-1677;Cylinder Block AS;CCR PISTON
+155-2793;12;;1201;Seal-Liner;488-1677;Cylinder Block AS;CCR PISTON
+238-2707;6;;1225;Ring-Piston;368-7820;Piston & Rod GP;CCR PISTON
+246-5659;6;;1225;Ring-Piston;368-7820;Piston & Rod GP;CCR PISTON
+223-9159;6;;1225;Ring-Piston-Top;368-7820;Piston & Rod GP;CCR PISTON

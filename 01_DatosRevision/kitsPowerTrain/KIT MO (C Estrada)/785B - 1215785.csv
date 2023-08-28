@@ -1,0 +1,342 @@
+Serial Number or Prefix;Product;Order ID;Work Order;Segment;Operation;Additional Notes;
+0;;785B_ 121-5785.;;;;;
+;;;;;;;
+Part No.;Qty;Type;SMCS;Part Name;Group No.;Group Name;Note
+5M-7423;4;;1063;Seal-O-Ring;2W-0730;Aftercooler GP-Water;CCR EN&CA
+1W-1253;2;;1063;Gasket;2W-0730;Aftercooler GP-Water;CCR EN&CA
+6I-4033;1;;1063;Gasket;2W-0730;Aftercooler GP-Water;CCR EN&CA
+7M-9909;2;;1063;Seal-O-Ring;2W-0730;Aftercooler GP-Water;CCR EN&CA
+6V-1454;6;;1063;Seal-O-Ring;2W-0730;Aftercooler GP-Water;CCR EN&CA
+1W-1251;3;;1063;Gasket;2W-0730;Aftercooler GP-Water;CCR EN&CA
+1M-7913;1;;1063;Ring-Retaining;2W-0730;Aftercooler GP-Water;CCR EN&CA
+230-1072;1;;1063;Gasket;2W-0730;Aftercooler GP-Water;CCR EN&CA
+129-3948;1;;1803;Seal-Integral;117-0071;Air Compressor GP;CCR BBA
+6L-1883;1;;1803;Gasket;117-0071;Air Compressor GP;CCR BBA
+5F-5434;1;;1803;Valve AS-Vent;117-0071;Air Compressor GP;CCR BBA
+4W-3027;2;;1317;Breather AS;394-8133;Breather GP;CCR M&B
+4W-3034;2;;1317;Clamp-Hose;394-8133;Breather GP;CCR M&B
+217-6692;1;;1317;Hose-Tee;394-8133;Breather GP;CCR M&B
+033-6031;2;;1317;Seal-O-Ring;394-8133;Breather GP;CCR M&B
+5P-0597;2;;1317;Clamp-Hose;394-8133;Breather GP;CCR M&B
+7N-3218;2;;1210;Washer-Thrust;7E-5320;Camshaft GP;CCR BLOCK
+117-0030;1;;1802;V-Belt;2W-0216;Compressor GP-Refrigerant;CCR DIST
+103-0882;2;;1802;Cap-Dust;2W-0216;Compressor GP-Refrigerant;CCR BBA 
+2R-1230;4;;1802;Ring-Retaining;2W-0216;Compressor GP-Refrigerant;CCR BBA 
+105-7535;2;;1802;Bearing AS-Ball;2W-0216;Compressor GP-Refrigerant;CCR BBA 
+103-0885;2;;1802;Bolt-Special;2W-0216;Compressor GP-Refrigerant;CCR BBA 
+9X-4610;2;;1802;Seal-V-Ring;2W-0216;Compressor GP-Refrigerant;CCR BBA 
+103-0881;2;;1802;Cap-Dust;2W-0216;Compressor GP-Refrigerant;CCR BBA 
+133-5941;1;;1802;Harness AS;2W-0216;Compressor GP-Refrigerant;CCR BBA 
+9X-6772;2;;1802;Strap-Cable;2W-0216;Compressor GP-Refrigerant;CCR BBA 
+0R-6756;1;;1802;Compressor GP-Refrigerant;2W-0216;Compressor GP-Refrigerant;CCR TU&EL
+7E-6016;2;;1380;Gasket;7E-5327;Connection GP-Water;CCR EN&CA
+6V-5049;2;;1901;Seal-O-Ring;7E-9084;Control & Mtg GP-Engine Elek;CCR TU&EL
+8N-9885;1;;1901;Gasket-Cover;7E-9084;Control & Mtg GP-Engine Elek;CCR TU&EL
+9X-9896;8;;1901;Mount;7E-9084;Control & Mtg GP-Engine Elek;CCR TU&EL
+7X-6035;1;;1901;Strap-Grounding;7E-9084;Control & Mtg GP-Engine Elek;CCR TU&EL
+0R-5519;1;;1378;Core GP-O Clr;4W-5892;Cooler GP-Engine Oil;CCR EN&CA
+247-3796;2;;1378;Gasket;4W-5892;Cooler GP-Engine Oil;CCR EN&CA
+109-2332;2;;1378;Seal-O-Ring;4W-5892;Cooler GP-Engine Oil;CCR EN&CA
+10R-0817;2;;1000;Core AS-Oclr;121-5785;Engine AR;CCR EN&CA
+272-0758;12;;1201;Seal;8N-9641;Cover GP-Cylinder Block;CCR BLOCK
+7N-4945;3;;1201;Gasket;8N-9641;Cover GP-Cylinder Block;CCR BLOCK
+272-0759;12;;1201;Seal;8N-9641;Cover GP-Cylinder Block;CCR BLOCK
+5P-8210;2;;1201;Seal-O-Ring;383-4251;Cover GP-Cylinder Block;CCR BLOCK
+7N-4945;1;;1201;Gasket;385-0228;Cover GP-Cylinder Block;CCR BLOCK
+1W-4954;1;;1157;Gasket-Cover;2W-0204;Cover GP-Flywheel Housing;CCR DIST
+4B-8407;1;;1157;Gasket-Copper;2W-0204;Cover GP-Flywheel Housing;CCR DIST
+7N-4320;2;;1157;Gasket;2W-0204;Cover GP-Flywheel Housing;CCR DIST
+9L-2662;1;;1157;Gasket;2W-0204;Cover GP-Flywheel Housing;CCR DIST
+234-8937;1;;1157;Seal-Integral;2W-0204;Cover GP-Flywheel Housing;CCR DIST
+2J-6274;1;;1157;Seal-O-Ring;2W-0204;Cover GP-Flywheel Housing;CCR DIST
+3P-1896;2;;1151;Plug-Cup;2W-0202;Cover GP-Front Housing;CCR DIST
+235-3546;1;;1151;Seal-O-Ring;2W-0202;Cover GP-Front Housing;CCR DIST
+6V-3348;1;;1151;Seal-O-Ring;2W-0202;Cover GP-Front Housing;CCR DIST
+5P-0840;1;;1151;Seal-O-Ring;2W-0202;Cover GP-Front Housing;CCR DIST
+259-4598;1;;1151;Seal-O-Ring;2W-0202;Cover GP-Front Housing;CCR DIST
+8N-9885;1;;1151;Gasket-Cover;2W-0202;Cover GP-Front Housing;CCR DIST
+3D-2824;1;;1151;Seal-O-Ring;2W-0202;Cover GP-Front Housing;CCR DIST
+033-6042;1;;1151;Seal-O-Ring;2W-0202;Cover GP-Front Housing;CCR DIST
+6V-8260;1;;1151;Seal-O-Ring;2W-0202;Cover GP-Front Housing;CCR DIST
+235-3546;1;;1151;Seal-O-Ring;383-7525;Cover GP-Front Housing;CCR DIST
+259-4598;1;;1151;Seal-O-Ring;383-7525;Cover GP-Front Housing;CCR DIST
+5P-0840;1;;1151;Seal-O-Ring;383-7525;Cover GP-Front Housing;CCR DIST
+6V-3348;1;;1151;Seal-O-Ring;383-7525;Cover GP-Front Housing;CCR DIST
+8N-9885;1;;1151;Gasket-Cover;454-3225;Cover GP-Front Housing;CCR DIST
+214-7568;1;;1151;Seal-O-Ring;454-3225;Cover GP-Front Housing;CCR DIST
+3D-2824;1;;1151;Seal-O-Ring;454-3225;Cover GP-Front Housing;CCR DIST
+6V-8260;1;;1151;Seal-O-Ring;383-0622;Cover GP-Front Housing;CCR DIST
+272-0760;12;;1107;Seal-Valve Cover;394-8053;Cover GP-Valve Mechanism;CCR M&B
+7C-6209;2;;1202;Plate-Thrust;8N-7103;Crankshaft GP;CCR BLOCK
+214-7568;6;;1201;Seal-O-Ring;350-5219;Cylinder Block GP;CCR BLOCK
+7X-4805;3;;1201;Seal-O-Ring;350-5219;Cylinder Block GP;BBR BLOCK
+8T-2928;1;;1201;Seal-O-Ring;350-5219;Cylinder Block GP;CCR BLOCK
+5P-0840;24;;1201;Seal-O-Ring;350-5219;Cylinder Block GP;CCR BLOCK
+144-5692;12;;1201;Gasket-Plate;350-5219;Cylinder Block GP;CCR EN.CLT
+5F-9657;4;;1201;Seal-O-Ring;350-5219;Cylinder Block GP;CCR BLOCK
+5P-8210;2;;1201;Seal-O-Ring;350-5219;Cylinder Block GP;CCR BLOCK
+6V-3348;8;;1201;Seal-O-Ring;350-5219;Cylinder Block GP;CCR BLOCK
+116-1359;14;;1201;Bearing-Camshaft;350-5219;Cylinder Block GP;CCR BLOCK
+8T-2929;1;;1201;Seal-O-Ring;350-5219;Cylinder Block GP;CCR BLOCK
+3F-5792;1;;1207;Seal-O-Ring;9Y-1595;Drive GP-Accessory;CCR DIST
+7N-3011;1;;1207;Bushing;9Y-1595;Drive GP-Accessory;CCR DIST
+9X-7726;2;;1207;Sleeve-Wear;9Y-1595;Drive GP-Accessory;CCR DIST
+7N-8525;2;;1207;Washer-Thrust;9Y-1595;Drive GP-Accessory;CCR DIST
+7N-2910;1;;1207;Bushing;9Y-1595;Drive GP-Accessory;CCR DIST
+7N-3006;2;;1207;Washer-Thrust;9Y-1595;Drive GP-Accessory;CCR DIST
+8M-5255;1;;1207;Seal-O-Ring;9Y-1595;Drive GP-Accessory;CCR DIST
+5D-3954;2;;1207;Stud-Taperlock;9Y-1595;Drive GP-Accessory;CCR DIST
+2D-8806;4;;1207;Stud-Taperlock;9Y-1595;Drive GP-Accessory;CCR DIST
+9X-7711;1;;1207;Seal GP;9Y-1595;Drive GP-Accessory;CCR DIST
+1V-6341;2;;1207;Seal;9Y-1595;Drive GP-Accessory;CCR DIST
+127-5400;2;;1207;Bushing;383-0859;Drive GP-Accessory;CCR DIST
+235-3546;1;;1207;Seal-O-Ring;383-0859;Drive GP-Accessory;CCR DIST
+7N-7539;2;;1207;Washer-Thrust;383-0859;Drive GP-Accessory;CCR DIST
+9X-7371;1;;1207;Seal-O-Ring;383-0859;Drive GP-Accessory;CCR DIST
+6V-0405;2;;1207;Seal-Bonded;115-0597;Drive GP-Auxiliary;CCR DIST
+7C-3258;1;;1207;Washer AS-Thrust;115-0597;Drive GP-Auxiliary;CCR DIST
+7N-7539;2;;1207;Washer-Thrust;115-0597;Drive GP-Auxiliary;CCR DIST
+127-5400;1;;1207;Bushing;115-0597;Drive GP-Auxiliary;CCR DIST
+115-0591;1;;1207;Bushing;115-0597;Drive GP-Auxiliary;CCR DIST
+5P-0840;1;;1207;Seal-O-Ring;115-0597;Drive GP-Auxiliary;CCR DIST
+259-4598;2;;1207;Seal-O-Ring;115-0597;Drive GP-Auxiliary;CCR DIST
+569-7729;1;;1160;Seal-Crankshaft;332-7911;Seal GP-Crankshaft;CCR BLOCK
+569-7728;1;;1160;Seal-Crankshaft;332-7911;Seal GP-Crankshaft;CCR BLOCK
+2W-0752;1;;1316;Gasket;1N-4764;Filler GP-Engine Oil;CCR DESARME
+1P-1367;3;;1306;Plunger;317-3744;Filter GP-Engine Oil;CCR EN&CA
+7G-6713;3;;1306;Spring-Main;317-3744;Filter GP-Engine Oil;CCR EN&CA
+9Y-8387;3;;1306;Gasket;317-3744;Filter GP-Engine Oil;CCR EN&CA
+9Y-8388;3;;1306;Gasket;317-3744;Filter GP-Engine Oil;CCR EN&CA
+275-2604;3;;1306;Filter-Engine Oil;317-3744;Filter GP-Engine Oil;CCR EN&CA
+109-2332;2;;1306;Seal-O-Ring;317-3744;Filter GP-Engine Oil;CCR DESARME
+361-7097;2;;1306;Ring;317-3744;Filter GP-Engine Oil;CCR EN&CA
+1R-0755;2;;1261;Filter-Fuel;6I-4470;Filter GP-Fuel;CCR EN&CA
+3K-0360;1;;1261;Seal-O-Ring;6I-4470;Filter GP-Fuel;CCR EN&CA
+2K-8198;4;;1261;Seal-O-Ring;6I-4470;Filter GP-Fuel;CCR EN&CA
+7F-9090;2;;1261;Screw-Drive;6I-4470;Filter GP-Fuel;CCR EN&CA
+180-3007;1;;1317;Clamp-Hose;434-3292;Fumes Disposal GP;CCR DIST
+5R-7136;1;;1151;Washer-Sealing;376-3358;Gear GP-Front;CCR DIST
+5R-7137;2;;1151;Washer-Sealing;376-3358;Gear GP-Front;CCR DIST
+7C-3258;1;;1151;Washer AS-Thrust;376-3358;Gear GP-Front;CCR DIST
+127-5400;2;;1151;Bushing;376-3358;Gear GP-Front;CCR DIST
+7N-5246;2;;1151;Washer-Thrust;376-3358;Gear GP-Front;CCR DIST
+140-9597;1;;1151;Bushing;376-3358;Gear GP-Front;CCR DIST
+235-3546;1;;1151;Seal-O-Ring;376-3358;Gear GP-Front;CCR DIST
+259-4598;2;;1151;Seal-O-Ring;376-3358;Gear GP-Front;CCR DIST
+6V-3348;1;;1151;Seal-O-Ring;376-3358;Gear GP-Front;CCR DIST
+101-1368;2;;1204;Washer-Thrust;382-2793;Gear GP-Rear;CCR DIST
+4P-5438;1;;1204;Bushing;382-2793;Gear GP-Rear;CCR DIST
+125-9751;1;;1204;Bushing;382-2793;Gear GP-Rear;CCR DIST
+501-6696;1;;7150;Guard AS-Alternator;4P-3747;Guard GP-Belt;CCR DIST
+6N-1604;3;;1383;Cap AS-Dust;453-4107;Heater GP-Jacket Water;CCR BLOCK
+6T-3764;3;;1383;Element AS-Jacket Water Heater;453-4107;Heater GP-Jacket Water;CCR BLOCK
+3S-9643;4;;1355;Seal-Lip Type;4W-1510;Housing & Regulator GP;CCR EN&CA
+111-4374;1;;1355;Valve AS;4W-1510;Housing & Regulator GP;CCR EN&CA
+248-5513;4;;1355;Regulator-Water Temperature;4W-1510;Housing & Regulator GP;CCR EN&CA
+3J-7354;1;;1355;Seal-O-Ring;4W-1510;Housing & Regulator GP;CCR EN&CA
+7N-4927;1;;1355;Gasket-Housing Cover;4W-1510;Housing & Regulator GP;CCR EN&CA
+7N-3049;1;;1151;Gasket;381-0680;Housing GP-Front;CCR DIST
+8L-8413;2;;1122;Strap-Cable;378-7432;Lifting GP-Engine;CCR BLOCK
+6V-3917;8;;1071;Seal-O-Ring;1W-5225;Lines GP-Air;CCR EN.CLT
+1W-1251;2;;1071;Gasket;1W-5225;Lines GP-Air;CCR EN.CLT
+2N-2765;8;;1071;Bolt-High Temperature;1W-5225;Lines GP-Air;CCR EN.CLT
+7L-3195;12;;1071;Bolt-High Temperature;1W-5225;Lines GP-Air;CCR EN.CLT
+168-7800;20;;1071;Locknut;1W-5225;Lines GP-Air;CCR EN.CLT
+7N-5080;12;;1071;Gasket-Manifold;1W-5225;Lines GP-Air;CCR EN.CLT
+6V-5101;12;;1071;Seal-O-Ring;1W-5225;Lines GP-Air;CCR EN.CLT
+7N-5089;12;;1071;Gasket;1W-5225;Lines GP-Air;CCR EN.CLT
+7N-5087;2;;1071;Gasket;1W-5225;Lines GP-Air;CCR EN.CLT
+123-6979;2;;1071;Clamp-V Band;1W-5225;Lines GP-Air;CCR EN.CLT
+8T-0122;5;;1071;Nut-Full;1W-5225;Lines GP-Air;CCR EN.CLT
+108-1434;2;;1803;Grommet;115-0596;Lines GP-Air Compressor;CCR DESARME
+7V-0916;1;;1803;Hose AS;115-0596;Lines GP-Air Compressor;CCR DESARME
+8M-7065;1;;1803;Gasket;115-0596;Lines GP-Air Compressor;CCR DESARME
+152-1005;1;;1803;Hose AS;115-0596;Lines GP-Air Compressor;CCR DESARME
+2W-1635;1;;1307;Spring;2W-0207;Lines GP-Engine Oil;CCR EN&CA
+6B-9202;2;;1307;Spring;2W-0207;Lines GP-Engine Oil;CCR BLOCK
+111-3820;1;;1307;Ring-Retaining;2W-0207;Lines GP-Engine Oil;CCR DESARME
+361-7097;1;;1307;Ring;2W-0207;Lines GP-Engine Oil;CCR DESARME
+109-2332;5;;1307;Seal-O-Ring;2W-0207;Lines GP-Engine Oil;CCR DESARME
+228-7097;1;;1307;Seal-O-Ring;2W-0207;Lines GP-Engine Oil;CCR DESARME
+2K-4973;2;;1307;Locknut;2W-0207;Lines GP-Engine Oil;CCR DESARME
+3P-0655;3;;1307;Seal-O-Ring;2W-0207;Lines GP-Engine Oil;CCR DESARME
+5P-4892;1;;1307;Seal-O-Ring;2W-0207;Lines GP-Engine Oil;CCR DESARME
+5P-5846;1;;1307;Seal-O-Ring;2W-0207;Lines GP-Engine Oil;CCR DESARME
+6V-1574;2;;1307;Grommet;2W-0207;Lines GP-Engine Oil;CCR DESARME
+6V-3908;1;;1307;Seal-O-Ring;2W-0207;Lines GP-Engine Oil;CCR DESARME
+6V-4368;4;;1307;Seal-O-Ring;2W-0207;Lines GP-Engine Oil;CCR DESARME
+6V-5048;3;;1307;Seal-O-Ring;2W-0207;Lines GP-Engine Oil;CCR DESARME
+8C-3445;1;;1307;Cap-Dust;2W-0207;Lines GP-Engine Oil;CCR DESARME
+8C-3446;1;;1307;Valve-Sampling;2W-0207;Lines GP-Engine Oil;CCR DESARME
+6V-4589;3;;1307;Seal-O-Ring;2W-0207;Lines GP-Engine Oil;CCR DESARME
+2M-9780;7;;1252;Seal-O-Ring;7E-9214;Lines GP-Fuel Injection;CCR DESARME
+4P-0692;18;;1252;Clamp AS;7E-9214;Lines GP-Fuel Injection;CCR DESARME
+4P-0693;32;;1252;Clamp AS;7E-9214;Lines GP-Fuel Injection;CCR DESARME
+7C-8402;1;;1252;Hose AS;7E-9214;Lines GP-Fuel Injection;CCR DESARME
+3J-1907;25;;1252;Seal-O-Ring;7E-9214;Lines GP-Fuel Injection;CCR DESARME
+7N-6806;4;;1252;Seal-Rectangular;7E-9214;Lines GP-Fuel Injection;CCR DESARME
+3J-7354;1;;1252;Seal-O-Ring;7E-9214;Lines GP-Fuel Injection;CCR DESARME
+108-1434;1;;1252;Grommet;7E-9214;Lines GP-Fuel Injection;CCR DESARME
+9N-4053;2;;1252;Spring;7E-9214;Lines GP-Fuel Injection;CCR DESARME
+5P-4295;1;;1252;Clip;7E-9214;Lines GP-Fuel Injection;CCR DESARME
+6W-9448;1;;1252;Hose AS;7E-9214;Lines GP-Fuel Injection;CCR DESARME
+3K-0360;4;;1252;Seal-O-Ring;7E-9214;Lines GP-Fuel Injection;CCR DESARME
+224-3895;2;;1374;Screen AS;125-5811;Screen GP-Oil Cooler;CCR EN&CA
+3J-7354;2;;1374;Seal-O-Ring;125-5811;Screen GP-Oil Cooler;CCR EN&CA
+6F-8146;2;;1374;Seal-O-Ring;125-5811;Screen GP-Oil Cooler;CCR EN&CA
+6K-6307;2;;1374;Seal-O-Ring;125-5811;Screen GP-Oil Cooler;CCR EN&CA
+2W-0752;2;;1052;Gasket;109-8081;Lines GP-Turbocharger Oil;CCR DESARME
+4P-0692;4;;1052;Clamp AS;109-8081;Lines GP-Turbocharger Oil;CCR DESARME
+7N-7559;2;;1052;Gasket;109-8081;Lines GP-Turbocharger Oil;CCR TU&EL
+184-3229;2;;1052;Hose AS;109-8081;Lines GP-Turbocharger Oil;CCR DESARME
+100-3237;8;;1052;Grommet;109-8081;Lines GP-Turbocharger Oil;CCR DESARME
+5P-9890;4;;1052;Seal-O-Ring;109-8081;Lines GP-Turbocharger Oil;CCR DESARME
+6V-4589;1;;1052;Seal-O-Ring;109-8081;Lines GP-Turbocharger Oil;CCR DESARME
+8L-2786;2;;1052;Seal-O-Ring;109-8081;Lines GP-Turbocharger Oil;CCR DESARME
+4P-4460;2;;1052;Gasket;109-8081;Lines GP-Turbocharger Oil;CCR TU&EL
+1W-4099;2;;1380;Ring-Retaining;454-2094;Lines GP-Water;CCR DESARME
+230-1072;1;;1380;Gasket;454-2094;Lines GP-Water;CCR DESARME
+6V-1454;2;;1380;Seal-O-Ring;454-2094;Lines GP-Water;CCR DESARME
+2N-0931;1;;1380;Gasket;448-4764;Lines GP-Water;CCR EN&CA
+110-0096;2;;1380;Ring;448-4764;Lines GP-Water;CCR DESARME
+103-0892;1;;1380;Grommet;448-4764;Lines GP-Water;CCR DESARME
+4W-3100;1;;1380;Gasket;448-4764;Lines GP-Water;CCR DESARME
+6V-5066;2;;1380;Seal-O-Ring;448-4764;Lines GP-Water;CCR DESARME
+6V-6809;1;;1380;Seal-O-Ring;448-4764;Lines GP-Water;CCR DESARME
+2N-8630;1;;1380;Gasket;453-4108;Lines GP-Water;CCR EN&CA
+7N-4932;2;;1380;Gasket;453-4108;Lines GP-Water;CCR DESARME
+7N-4945;1;;1380;Gasket;453-4108;Lines GP-Water;CCR DESARME
+7S-8767;4;;1380;Gasket;453-4108;Lines GP-Water;CCR EN&CA
+005-7889;2;;1380;Valve AS-Drain;453-4108;Lines GP-Water;CCR DESARME
+110-0096;2;;1380;Ring;453-4108;Lines GP-Water;CCR DESARME
+153-7466;1;;1380;Hose AS;453-4108;Lines GP-Water;CCR DESARME
+103-0892;1;;1380;Grommet;453-4108;Lines GP-Water;CCR DESARME
+3S-8664;1;;1380;Clip;453-4108;Lines GP-Water;CCR DESARME
+4N-1320;1;;1380;Gasket;453-4108;Lines GP-Water;CCR DESARME
+5P-8210;1;;1380;Seal-O-Ring;453-4108;Lines GP-Water;CCR DESARME
+6V-5066;7;;1380;Seal-O-Ring;453-4108;Lines GP-Water;CCR DESARME
+6V-6609;2;;1380;Seal-O-Ring;453-4108;Lines GP-Water;CCR DESARME
+8S-0948;3;;1380;Clip;453-4108;Lines GP-Water;CCR DESARME
+4P-0707;4;;1380;Clamp AS;454-2097;Lines GP-Water;CCR DESARME
+7F-2050;1;;1380;Locknut;454-2097;Lines GP-Water;CCR DESARME
+111-4394;2;;1380;Hose AS;454-2097;Lines GP-Water;CCR DESARME
+341-9211;8;;1380;Gasket;454-2097;Lines GP-Water;CCR TU&EL
+6V-6609;2;;1380;Seal-O-Ring;454-2097;Lines GP-Water;CCR DESARME
+7N-3368;2;;1380;Gasket;7E-9220;Lines GP-Water;CCR BLOCK
+122-8856;2;;1380;Gasket;7E-9220;Lines GP-Water;CCR EN&CA
+127-2176;12;;1380;Seal-Integral;7E-9220;Lines GP-Water;CCR EN&CA
+241-5928;12;;1380;Gasket;7E-9220;Lines GP-Water;CCR EN&CA
+243-2288;4;;1380;Gasket;7E-9220;Lines GP-Water;CCR EN&CA
+6V-9027;1;;1380;Seal-O-Ring;7E-9220;Lines GP-Water;CCR EN&CA
+6V-9769;12;;1380;Seal-O-Ring;7E-9220;Lines GP-Water;CCR EN&CA
+7W-8145;2;;1059;Gasket-Exhaust Manifold;453-4111;Manifold GP-Exhaust;CCR EN.CLT
+127-8269;2;;1059;Seal-Exhaust;453-4111;Manifold GP-Exhaust;CCR EN.CLT
+203-2143;4;;1059;Sleeve;453-4111;Manifold GP-Exhaust;CCR EN.CLT
+2N-2766;8;;1059;Locknut;453-4111;Manifold GP-Exhaust;CCR EN.CLT
+5P-3345;8;;1059;Bolt;453-4111;Manifold GP-Exhaust;CCR EN.CLT
+5P-3875;8;;1059;Bolt;453-4111;Manifold GP-Exhaust;CCR EN.CLT
+7W-8145;2;;1059;Gasket-Exhaust Manifold;453-4112;Manifold GP-Exhaust;CCR EN.CLT
+127-8269;2;;1059;Seal-Exhaust;453-4112;Manifold GP-Exhaust;CCR EN.CLT
+203-2143;4;;1059;Sleeve;453-4112;Manifold GP-Exhaust;CCR EN.CLT
+2N-2766;8;;1059;Locknut;453-4112;Manifold GP-Exhaust;CCR EN.CLT
+5P-3345;8;;1059;Bolt;453-4112;Manifold GP-Exhaust;CCR EN.CLT
+5P-3875;8;;1059;Bolt;453-4112;Manifold GP-Exhaust;CCR EN.CLT
+7W-8145;2;;1059;Gasket-Exhaust Manifold;453-4113;Manifold GP-Exhaust;CCR EN.CLT
+5P-3875;8;;1059;Bolt;453-4113;Manifold GP-Exhaust;CCR EN.CLT
+7W-8145;2;;1059;Gasket-Exhaust Manifold;453-8095;Manifold GP-Exhaust;CCR EN.CLT
+2N-2766;8;;1059;Locknut;453-8095;Manifold GP-Exhaust;CCR EN.CLT
+5P-3345;16;;1059;Bolt;453-8095;Manifold GP-Exhaust;CCR EN.CLT
+5P-3875;8;;1059;Bolt;453-8095;Manifold GP-Exhaust;CCR EN.CLT
+20R-1262;12;;1251;Injector GP-Fuel;7E-9090;Pump GP-Fuel Injection;CCR EN.CLT
+7F-8698;12;;1251;Bolt;7E-9090;Pump GP-Fuel Injection;CCR EN.CLT
+121-5736;2;;1052;Gasket;7W-5465;Turbocharger GP;CCR TU&EL
+465-2689;1;;1154;Seal-Wear Sleeve;7E-4836;Mounting GP-Alternator;CCR DIST
+141-7116;1;;1154;Belt-Serpentine;7E-4836;Mounting GP-Alternator;CCR DIST
+235-2484;1;;1154;Seal-Lip Type;7E-4836;Mounting GP-Alternator;CCR DIST
+3K-2889;1;;1154;Locknut;7E-4836;Mounting GP-Alternator;CCR DIST
+300-8567;1;;1154;Sleeve;376-4005;Mounting GP-Alternator;CCR DIST
+6F-4868;1;;1302;Gasket;453-2801;Pan GP-Oil;CCR EN&CA
+6I-0723;1;;1302;Plug-Oil Drain;453-2801;Pan GP-Oil;CCR EN&CA
+7E-2630;1;;1302;Gasket-Oil Pan;453-2801;Pan GP-Oil;CCR EN&CA
+142-4159;1;;1302;Seal-Integral;453-2801;Pan GP-Oil;CCR EN&CA
+415-3936;1;;1302;Screen AS-Suction;453-2801;Pan GP-Oil;CCR EN&CA
+3P-0654;2;;1302;Seal-O-Ring;453-2801;Pan GP-Oil;CCR EN&CA
+5P-5700;4;;1302;Seal-O-Ring;453-2801;Pan GP-Oil;CCR EN&CA
+5P-8068;2;;1302;Seal-O-Ring;453-2801;Pan GP-Oil;CCR EN&CA
+6V-4314;2;;1302;Seal-O-Ring;453-2801;Pan GP-Oil;CCR EN&CA
+6V-4315;2;;1302;Seal-O-Ring;453-2801;Pan GP-Oil;CCR EN&CA
+6V-5101;1;;1302;Seal-O-Ring;453-2801;Pan GP-Oil;CCR EN&CA
+214-7568;2;;1201;Seal-O-Ring;433-5824;Plug GP-Cylinder Block;CCR BLOCK
+214-7568;1;;1201;Seal-O-Ring;433-5828;Plug GP-Cylinder Block;CCR BLOCK
+6V-4589;3;;1307;Seal-O-Ring;431-6710;Plug GP-Engine Oil Lines;CCR DESARME
+4B-8407;1;;1157;Gasket-Copper;445-8608;Plug GP-Flywheel Housing;CCR DIST
+3J-7354;2;;1151;Seal-O-Ring;447-0473;Plug GP-Front Housing;CCR DIST
+214-7566;3;;1306;Seal-O-Ring;548-2773;Plug GP-Oil Filter Mounting;CCR EN&CA
+2M-9780;2;;1302;Seal-O-Ring;453-2802;Plug GP-Oil Pan;CCR EN&CA
+3P-6061;1;;1361;Gasket;1W-0410;Pump GP-Auxiliary Water;CCR BBA
+235-3546;1;;1361;Seal-O-Ring;1W-0410;Pump GP-Auxiliary Water;CCR BBA
+4F-7387;1;;1361;Seal-O-Ring;1W-0410;Pump GP-Auxiliary Water;CCR BBA
+5N-1940;1;;1361;Gasket;1W-0410;Pump GP-Auxiliary Water;CCR BBA
+298-6387;1;;1304;Seal-O-Ring;8N-6152;Pump GP-Engine Oil;CCR BBA
+9Y-8389;1;;1258;Gasket;449-7082;Pump GP-Fuel Priming;CCR BBA
+183-2823;1;;1258;Pump AS-Fuel Priming;449-7082;Pump GP-Fuel Priming;CCR BBA
+1H-9696;1;;1256;Seal-O-Ring;377-5900;Pump GP-Fuel Transfer;CCR BBA
+10R-9838;1;;1256;Pump GP-F Xfr;377-5900;Pump GP-Fuel Transfer;CCR BBA
+3P-0657;2;;1312;Seal-O-Ring;8N-7805;Pump GP-Scavenge;CCR DESARME
+4P-5500;1;;1312;Screen-Scavenge;8N-7805;Pump GP-Scavenge;CCR EN&CA
+4P-4917;1;;1312;Screen-Scavenge;8N-7805;Pump GP-Scavenge;CCR EN&CA
+237-7623;2;;1312;Seal-O-Ring;384-8031;Pump GP-Scavenge;CCR DESARME
+5H-6734;1;;1361;Seal-O-Ring;375-3658;Pump GP-Water;CCR EN.CLT
+149-5462;1;;1361;Seal-O-Ring;375-3658;Pump GP-Water;CCR EN.CLT
+420-0652;48;;1221;Seal AS-Water;445-8603;Spacer GP-Block;CCR EN.CLT
+420-0653;48;;1221;Seal AS-Water;445-8603;Spacer GP-Block;CCR EN.CLT
+362-8264;12;;1221;Gasket-Cylinder Head;445-8603;Spacer GP-Block;CCR EN.CLT
+7X-1078;2;;1456;Nozzle AS-Ether;119-1692;Starting Aid GP-Ether;CCR DESARME
+6V-2686;5;;1456;Clip;119-1692;Starting Aid GP-Ether;CCR DESARME
+5P-6314;3;;1456;Sleeve;119-1692;Starting Aid GP-Ether;CCR DESARME
+118-8454;2;;1456;Nozzle AS-Ether;133-9754;Starting Aid GP-Ether;CCR DESARME
+133-9659;2;;1456;Hose AS;133-9754;Starting Aid GP-Ether;CCR DESARME
+133-9735;1;;1456;Hose AS;133-9754;Starting Aid GP-Ether;CCR DESARME
+4D-8123;4;;1456;Clip;133-9754;Starting Aid GP-Ether;CCR DESARME
+5P-9085;2;;1456;Clip;133-9754;Starting Aid GP-Ether;CCR DESARME
+7E-6830;12;;7498;Thermocouple AS;7E-8098;Thermocouple GP;CCR EN.CLT
+6K-8179;12;;7498;Clip;7E-8098;Thermocouple GP;CCR EN.CLT
+9X-7438;1;;1153;Mount AS;7N-1863;Trunnion GP-Engine;CCR DIST
+7E-3772;12;;1102;Gasket;454-4634;Valve Mechanism GP;CCR M&B
+7E-6508;12;;1102;Cap AS;454-4634;Valve Mechanism GP;CCR M&B
+8F-8858;36;;1102;Valve;454-4634;Valve Mechanism GP;CCR M&B
+9F-7707;36;;1102;Ring-Retaining;454-4634;Valve Mechanism GP;CCR M&B
+9X-0352;12;;1102;Receptacle AS-Connector;454-4634;Valve Mechanism GP;CCR M&B
+1W-4594;24;;1102;Bushing;454-4634;Valve Mechanism GP;CCR M&B
+132-6469;12;;1102;Harness AS-Wiring;454-4634;Valve Mechanism GP;CCR M&B
+358-0768;36;;1102;Screw-Adjusting;454-4634;Valve Mechanism GP;CCR M&B
+2J-0157;24;;1102;Seal-O-Ring;454-4634;Valve Mechanism GP;CCR M&B
+6J-2245;12;;1102;Seal-O-Ring;454-4634;Valve Mechanism GP;CCR M&B
+8M-2771;12;;1102;Clip;454-4634;Valve Mechanism GP;CCR M&B
+4P-8134;27;;1408;Clip;121-4128;Wiring GP-Engine;CCR TU&EL
+9X-6772;55;;1408;Strap-Cable;121-4128;Wiring GP-Engine;CCR TU&EL
+9G-9150;2;;1408;Clip;121-4128;Wiring GP-Engine;CCR TU&EL
+4P-7428;2;;1408;Clip;121-4128;Wiring GP-Engine;CCR TU&EL
+3T-3048;1;;1408;Clip AS;121-4128;Wiring GP-Engine;CCR TU&EL
+4E-0718;1;;1408;Wire AS;121-4128;Wiring GP-Engine;CCR TU&EL
+2V-3216;1;;1408;Clip;121-4128;Wiring GP-Engine;CCR TU&EL
+9X-3495;2;;1408;Clip AS;121-4128;Wiring GP-Engine;CCR TU&EL
+119-6279;1;;1408;Harness AS-Wiring;121-4128;Wiring GP-Engine;CCR TU&EL
+4D-9517;1;;1408;Clip;121-4128;Wiring GP-Engine;CCR TU&EL
+103-6091;1;;1408;Sensor GP-Pressure;121-4128;Wiring GP-Engine;CCR TU&EL
+9X-1813;34;;1408;Sleeve;121-4128;Wiring GP-Engine;CCR TU&EL
+6V-5048;3;;1408;Seal-O-Ring;121-4128;Wiring GP-Engine;CCR TU&EL
+7E-6016;1;;1408;Gasket;121-4128;Wiring GP-Engine;CCR TU&EL
+102-7532;1;;1408;Sensor GP-Temperature;121-4128;Wiring GP-Engine;CCR TU&EL
+3E-7298;1;;1408;Switch AS-Temperature;121-4128;Wiring GP-Engine;CCR TU&EL
+3K-0360;1;;1408;Seal-O-Ring;121-4128;Wiring GP-Engine;CCR TU&EL
+6N-5926;1;;1408;Sender AS-Temperature;121-4128;Wiring GP-Engine;CCR TU&EL
+3E-7886;1;;1408;Sensor GP-Speed;121-4128;Wiring GP-Engine;CCR TU&EL
+8L-2786;1;;1408;Seal-O-Ring;121-4128;Wiring GP-Engine;CCR TU&EL
+102-9029;1;;1408;Sensor GP-Speed;121-4128;Wiring GP-Engine;CCR TU&EL
+116-9933;1;;1408;Switch AS-Pressure;121-4128;Wiring GP-Engine;CCR TU&EL
+9X-3040;1;;1408;Switch GP-Flow;121-4128;Wiring GP-Engine;CCR TU&EL
+4N-3841;1;;1408;Gasket;121-4128;Wiring GP-Engine;CCR TU&EL
+3K-6905;1;;1408;Valve-Breather;121-4128;Wiring GP-Engine;CCR TU&EL
+163-8492;1;;1408;Sensor GP-Pressure;163-8492;Sensor GP-Pressure;CCR TU&EL
+111-8802;1;;;Sensor GP-Pressure  -Engine Oil;;;CCR TU&EL
